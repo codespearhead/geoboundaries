@@ -54,7 +54,7 @@ area["ISO3166-1"="BR"];
 out geom;
 ```
 
-3. Get a specific Brazilian State
+4. Get a specific Brazilian State
 
 ```
 [out:json];
@@ -63,7 +63,7 @@ area["ISO3166-1"="BR"];
 out geom;
 ```
 
-3. Get a specific Brazilian City
+5. Get a specific Brazilian City
 
 ```
 [out:json];
