@@ -1,0 +1,73 @@
+<h1 align="center"><a href="https://github.com/Paguiar735/geoboundaries">Geoboundaries</a></h1>
+
+<p align="center">
+    <br>
+  <a href="https://pixabay.com/pt/vectors/brasil-geografia-mapa-estados-153881/">
+    <img src="https://cdn.pixabay.com/photo/2013/07/12/18/47/brazil-153881_960_720.png" width="200px" height="200px"/>
+  </a>
+  <br><br>
+    Download the vector file of the boundaries of administrative divisions anywhere in the world
+  <br>
+</p>
+
+<br>
+
+## Project Goal
+
+Enable developers to generate updated vectors of boundaries of administrative divisions from OpenStreetMap via ready-to-go code snippets.
+
+## Introduction
+
+> **Note**: For other countries, pick a more appropriate tag you can find by looking through the tags of the desired administrative division in your country, which can by found by looking up some of said divisions on [OpenStreetMap](https://openstreetmap.org/).
+
+TODO: Explain what OpenStreetMap and the Overpass API are
+
+All examples can be run online via [Overpass Turbo](https://overpass-turbo.eu/).
+
+TODO: Explain [ISO3166-2](https://pt.wikipedia.org/wiki/ISO_3166-2:BR)
+
+## Code Snippets
+
+1. Get all Brazilian territories / borders
+
+```
+[out:json];
+rel["ISO3166-1"="BR"];
+out geom;
+```
+
+2. Get all Brazilian Geographic Regions
+
+```
+[out:json];
+area["ISO3166-1"="BR"];
+(relation["admin_level"="3"](area););
+out geom;
+```
+
+3. Get all Brazilian States
+
+```
+[out:json];
+area["ISO3166-1"="BR"];
+(relation["admin_level"="5"](area););
+out geom;
+```
+
+3. Get a specific Brazilian State
+
+```
+[out:json];
+area["ISO3166-1"="BR"];
+(relation["ISO3166-2"="BR-AM"](area););
+out geom;
+```
+
+3. Get a specific Brazilian City
+
+```
+[out:json];
+area["ISO3166-1"="BR"];
+(relation["IBGE:GEOCODIGO"="1302603"](area););
+out geom;
+```
