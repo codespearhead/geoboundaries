@@ -58,8 +58,8 @@ out geom;
 
 ```
 [out:json];
-area["ISO3166-1"="BR"];
-(relation["ISO3166-2"="BR-AM"](area););
+area["ISO3166-1"="BR"]->.searchArea;
+(relation["ISO3166-2"="BR-AM"](area.searchArea););
 out geom;
 ```
 
@@ -67,7 +67,7 @@ out geom;
 
 ```
 [out:json];
-area["ISO3166-1"="BR"];
-(relation["IBGE:GEOCODIGO"="1302603"](area););
+area["ISO3166-1"="BR"]->.searchArea;
+(relation["is_in:state"="Amazonas"]["name"="Manaus"](area.searchArea););
 out geom;
 ```
