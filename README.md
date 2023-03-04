@@ -71,3 +71,13 @@ area["ISO3166-1"="BR"]->.searchArea;
 relation["is_in:state"="Amazonas"]["name"="Manaus"](area.searchArea);
 out geom;
 ```
+
+6. Get all official neighborhoods in a Brazilian city (might be outdated)
+
+```
+[out:json];
+area["ISO3166-1"="BR"]->.searchArea;
+area["is_in:state"="Amazonas"]->.searchArea;
+relation["admin_level"~"10"]["border_type"!="district"](area.searchArea);
+out geom;
+```
