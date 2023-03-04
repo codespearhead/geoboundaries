@@ -41,7 +41,7 @@ out geom;
 ```
 [out:json];
 area["ISO3166-1"="BR"];
-(relation["admin_level"="3"](area););
+relation["admin_level"="3"](area);
 out geom;
 ```
 
@@ -50,7 +50,7 @@ out geom;
 ```
 [out:json];
 area["ISO3166-1"="BR"];
-(relation["admin_level"="5"](area););
+relation["admin_level"="5"](area);
 out geom;
 ```
 
@@ -59,7 +59,7 @@ out geom;
 ```
 [out:json];
 area["ISO3166-1"="BR"]->.searchArea;
-(relation["ISO3166-2"="BR-AM"](area.searchArea););
+relation["ISO3166-2"="BR-AM"](area.searchArea);
 out geom;
 ```
 
@@ -68,6 +68,6 @@ out geom;
 ```
 [out:json];
 area["ISO3166-1"="BR"]->.searchArea;
-(relation["is_in:state"="Amazonas"]["name"="Manaus"](area.searchArea););
+relation["is_in:state"="Amazonas"]["name"="Manaus"](area.searchArea);
 out geom;
 ```
