@@ -1,5 +1,5 @@
 - Salinas
-Salinas (Centro da Cidade)
+(Centro de) Salinas
 Baixa Grande
 Boqueirão
 Lajinha
@@ -9,7 +9,7 @@ Canela de Ema
 Pinhãozeiro
 
 - Ferreirópolis
-Ferreirópolis (Centro da Cidade)
+(Centro de) Ferreirópolis
 Montes Clarinhos
 
 - Nova Matrona
