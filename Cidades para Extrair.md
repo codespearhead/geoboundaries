@@ -1,5 +1,6 @@
 | Cidade | Assessor Responsável | Bairros Catalogados | Mapa Catalogado  | Mapa Tratado | Mapa Finalizado |
 |---|---|---|---|---|---|
+| São Paulo - SP | ? | V | V | F | F |
 | Itapema - SC | Adriano Pivotto | V | V | F | F |
 | Salinas-MG | Arthur Bastos | V | V | F | F |
 | São Carlos-SP | Gabriel Mesquita | V | V | F | F |
@@ -12,3 +13,4 @@
 | Itamaraju-BA | Miguel Xavier | V | F | F | F |
 | Americana-SP | David | V | F | F | F |
 | Paraíso do Tocantins - TO | Renan Aires | F | F | F | F |
+| Presidente Figueiredo - AM | ? | F | F | F | F |
