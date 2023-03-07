@@ -1,39 +1,40 @@
-- Ayrton Senna
-- Patagônia
-- Alto da Universidade
-- Boa Vista
-- São Pedro
-- Centro
-- Nossa Senhora Aparecida
-- Felícia
-- Jurema
-- Brasil
-- Bateias
-- Espírito Santo
-- Campinhos
-- Jatobá
-- Recreio
-- Candeias
-- Distrito Industrial dos Imborés
-- Ibirapuera
-- Zabelê
-- Lagoa das Flores
-- Guarani
-- Cruzeiro
-- Alto Maron
-- Primavera
-- Bate-Pé
-- Cabeceira da Jiboia
 - Cercadinho
+- Inhobim
+- Veredinha
+- Cabeceira da Jiboia
+- São João da Vitória
 - Dantilândia
 - Iguá
-- Inhobim
+- Bate-Pé
 - Pradoso
-- São João da Vitória
-- Veredinha
-- José Gonçalves
 - São Sebastião
-- Parque Real
-- Cidade de Kard
-- Vitória da Conquista
-- Reserva Florestal Poço Escuro
+- José Gonçalves
+
+- (Centro de) Vitória da Conquista
+Ayrton Senna
+Patagônia
+Alto da Universidade
+Boa Vista
+São Pedro
+Centro
+Nossa Senhora Aparecida
+Felícia
+Jurema
+Brasil
+Bateias
+Espírito Santo
+Campinhos
+Jatobá
+Recreio
+Candeias
+Distrito Industrial dos Imborés
+Ibirapuera
+Zabelê
+Lagoa das Flores
+Guarani
+Cruzeiro
+Alto Maron
+Primavera
+Parque Real
+Cidade de Kard
+Reserva Florestal Poço Escuro
