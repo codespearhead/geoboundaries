@@ -7,7 +7,7 @@
 | Brasília-DF | Paula Belmonte | V | V | F | F |
 | Natal-RN | Paulo Ovídio | V | V | F | F |
 | Vitória da Conquista-BH | Wesley Brito | V | V | F | F |
-| Caucaia-CE | Ícaro Bonfim | V | F | F | F |
+| Caucaia-CE | Ícaro Bonfim | V | V | V | F |
 | Salinas-MG | Arthur Bastos | V | F | F | F |
 | Caruaru-PE | Vitinho Maia | V | F | F | F |
 | Itamaraju-BA | Miguel Xavier | V | F | F | F |
