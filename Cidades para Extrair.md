@@ -9,6 +9,8 @@
 | Vitória da Conquista-BH | Wesley Brito | V | V | F | F |
 | Caucaia-CE | Ícaro Bonfim | V | V | V | F |
 | Caruaru-PE | Vitinho Maia | V | V | F | F |
+| Botelhos-MG | Marcus Lima | F | F | F | F |
+| Silvânia-GO | Matheus Brito | F | F | F | F |
 | Paraíso do Tocantins - TO | Renan Aires | F | F | F | F |
 | Americana-SP | David | V | F | F | F |
 | Itamaraju-BA | Miguel Xavier | V | F | F | F |
