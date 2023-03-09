@@ -1,25 +1,305 @@
-- Recanto das Águas
-- Recanto Pôr do Sol
-- São Joaquim
-- Parque dos Jequitibás
+Fonte: https://desenvolvimento.americana.sp.gov.br/sde-index.php?p=habitacao
 
-- (Região Metropolitana de) Americana
-Jardim da Paz
-Vila Bertine
-Jardim Paulistano
-São Manoel
-Vila Dainese
-Jardim São Paulo
-Jardim Nossa Senhora de Fátima.
-Vila Gallo
-Vila Mathiesen
-Jardim Mário Covas
-Conserva
-Girassol
+- AP1 - Centro
+
+Bairro Leitão
 Centro
-Vila Amorim
+Chácara Pântano
+Parque Ideal
+Vila Medon
+Vila Pavan
+Vila Redher
+Vila Paraiso
+Parte da Conserva
+Parte da Chácara Rodrigues
+
+- AP2 - Região Zanaga
+
+Lot. Ind. Dist. Pref. Abdo Najar I
+Lot. Ind. Dist. Pref. Abdo Najar II
+Fazenda Salto Grande
+Fazendinha
 Salto Grande
+Antônio Zanaga I
+Antônio Zanaga II
+Jardim Nossa Senhora Aparecida
+Jardim Vila Bela
+Vale das Nogueiras
+Jardim Brasil
+Jardim Santa Eliza
+Barroca
+Tapera
+Boa Esperança
+Jardim Novo Paraíso
+Chácara Letônia
+Chácara São Francisco
+Chácaras Alto da Represa
+Chácara Mantovani
+Chácara Lucília
+Iate Clube Americana
+Jardim Philipson Park
+Jardim Villagio I
+Jardim Villagio II
+Pq. Das Mangueiras
+Parque Primavera
+Praia dos Namorados
+Recanto Jatobá
+Recanto Vista Alegre
+Resid. Vale Paineiras
+Resid. Praia dos Namorados
+Riviera Tamborlim
+
+- AP3 - Região Praia Azul
+
+Berinjela
+Jardim Iate Clube de Campinas
+Parque Resid. Tancredi
+Residencial Bosque dos Ipês
+Jardim Florbela
+Chácara Machado
+Olho D' Água
+Camargo
+Fazenda Santa Lúcia
+Jardim Santa Lucia
+Jardim Barra do Cisne I
+Balneário Riviera
+Balneário Salto Grande
+L.M.F. Jorge–Monte Carlo
+Jardim do Lago
+Jardim Da Mata
+Parque Dom Pedro II
+Recanto Azul
+Remanso Azul
+Resid. Santa Paula
+São Benedito
+Fazenda Santo Ângelo
+Jardim Santo Antonio
+Jardim São José
+Jardim São Sebastião
+Jardim América
+Jardim Campo Belo
+Bairro da Lagoa
+Portal dos Nobres
+Jardim Imperador
+
+- AP4 - Região São Vito
+
+Vila Cordenonsi
+Carioba
+Cariobinha
+Jardim dos Ipês Amarelos
+Jardim Esplanada
+Jardim Pau Brasil
+Jardim dos Pinheiros
+Parque Resid. Jaguari
+Parque Nova Carioba
+Jardim Nossa Senhora do Carmo
+São Manoel
+Vila Maule
+Lot. A. Franciscangelis
+Vila Lourdes
+Vila Margarida
+Vila Mariana
+Campo Verde
+Chácara Bertini
+Vila Najar
+Vila Nura
+Vila São Vito
+Jardim São Vito
+São Vito (parte)
+Vila Belvedere (parte)
+Jardim Santa Sofia (parte)
+Vila Bertini I
+Vila Bertini II
+Vila Bertini III
+Parque Primavera (parte)
+Jardim Ind. Pref. Cid. Azevedo Marques 	 
+
+- AP5 - Região São Luiz
+
+Jardim Colina
+Jardim Santana
+Bom Recreio
+Vila Camargo
+Vila Gobbo
+Vila Santa Monica
+Vila Sant' Ângelo
+Vila Sobral
+Jardim Portal da Colina
+Col. W. Plass I
+Col. W. Plass II
+Col. W. Plass III
+Col. W. Plass IV
+Col. W. Plass V
+Col. W. Plass VI
+Col. W. Plass VII
+Bosque da Saúde
+Lot. Ind. Jardim Werner Plass
+Parque Ind. Machadinho
+Jardim Recanto (parte)
+Chácara Machadinho
+Fazenda Machadinho
+Ind. M C Abrão
+Ind. N Senhora De Fátima
+Industrial Sigisfredo Boer
+Jardim Nossa Senhora de Fátima
+Jardim Trípoli
+Vila Israel
+Vila Branca
+Campo Limpo I
+Campo Limpo II
+Chácara Sta. Cruz
+Jardim América
+Jardim Progresso
+Jardim Santarosa
+Jardim Santa Sofia (parte)
+Vila Belvedere (parte)
+Jardim Luciani
+Jardim Helena
+Parque Resid. Boa Vista
+Resid. Lindarma
+São Luiz
+Jardim Bertoni
+Jardim Bôer I
+Jardim Bôer II
+Jardim Mirandola
+Jardim Esperança
+Sítio Boa Vista
+Sítio Maniçoba
+Fazenda Santa Angélica
+
+- AP6 - Região São Jerônimo
+
+Jardim Bazanelli
+Parte Vila Dainese
+Jardim São Roque
+Parque Gramado
+Parque Resid. São Jerônimo
+São Jerônimo
+Jardim da Paz
+Parque da Liberdade
+Morada do Sol
+Parque das Nações
+Jardim da Balsa I
+Jardim da Balsa II
+Jardim Orquídeas
+Jardim Dona Rosa
+Jardim Mario Covas I
+Jardim Mario Covas II
+Jardim Mario Covas III 	 
+
+- AP7 - Região São Domingos / Amorim
+
+Vila Louricilda
+Vila Massucheto
+Vila Omar
+Jardim Miriam
+Vila Santa Inês
+Vila Amorim
+Vila Trevisoli
+Vila Dainese
+Catharina Zanaga
+Chácara Rodrigues
+Vale do Rio Branco
+Vila Jones
+Fazenda São Domingos
+Jardim São Domingos I
+Jardim São Domingos II
+Jardim Sta. Monica
+Jardim Bela Vista
+Jardim Dona Judith
+Jardim Novo Horizonte
+Jardim Guanabara
+Jardim Lizandra
+Jardim Paulista
+Jardim Paulistano
+Jardim Progresso
+Vila Santa Maria
+Vila Zanini
+
+- AP8 - Região Ipiranga / Jd. São Paulo
+
+Chácara Girassol
+Horto Florestal
+Jacyra IP
+Jardim Amélia
+Jardim Brasília
+Jardim Glória
+Jardim Ipiranga
+Jardim Mollon
+Jardim Novo Girassol
+Jardim Paulista
+Jardim Planalto
+Jardim São Paulo
+Jardim São Paulo II
+Jardim São Paulo III
+Jardim São Paulo IV
+Parque Residencial Nardini
+Vila Cechino
+Vila De Nadai
+Vila Frezzarin
+Vila Frezzarin II
+Vila Frezzarin III
+Vila Frezzarin IV
+Vila Medon
+Vila Pântano
+Vila Paraíso
+Vila Santo Antônio
+Vila Molon
+Vila San Pietro
+Vila Tônica
+
+- AP9 - Região Nova Americana / Santa Catarina
+
+Cidade Jardim *
+Conserva
+Jardim Briedis
+Jardim Maria Cristina
+Jardim Nova Americana
+Jardim Recanto
+Jardim São Pedro
+Jardim Melinski
+Vila Biasi
+Vila dos Gallos
+Vila Elvira 	
+Vila Gallo
+Vila Grassi
+Vila Nova Americana
+Vila Rasmussen
+Vila Santa Catarina I
+Vila Santa Catarina II
+Vila Santa Catarina III
+Vila São Pedro
+Vila Santa Julia
+
+- AP10 - Região São Domingos / Amorim
+
+Cachoeira
+Cidade Jardim
+Fazenda Cillos
+Fazenda Jacyra
+Filipada
+Jardim Alvorada
+Jardim Brasília
+Jardim das Flores
+Jardim dos Lírios
+Condomínio Lilases
+Jardim Jacyra
+Jardim Primavera
+Jardim São José
+Jardim Terramérica I
+Jardim Terramérica II
+Jardim Terramérica III
+Jardim Thelja
+Parque Novo Mundo
 Parque Universitário
-Vila Santa Catarina
-Cidade Jardim II
-Parque Liberdade
+Resid. Nilsen Ville
+Resid. Ed. Jacyra
+Vila Mathiensen
+Vila Vitória
+
+- Zona Rural
+
+Área Rural Pós–Represa
+Colônia Sobrado Velho
+Assentamento Milton Santos
