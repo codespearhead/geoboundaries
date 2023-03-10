@@ -74,7 +74,6 @@ Resid. Santa Paula
 São Benedito
 Fazenda Santo Ângelo
 Jardim Santo Antonio
-Jardim São José
 Jardim São Sebastião
 Jardim América
 Jardim Campo Belo
@@ -106,13 +105,11 @@ Vila Najar
 Vila Nura
 Vila São Vito
 Jardim São Vito
-São Vito (parte)
-Vila Belvedere (parte)
-Jardim Santa Sofia (parte)
+São Vito
+Jardim Santa Sofia
 Vila Bertini I
 Vila Bertini II
 Vila Bertini III
-Parque Primavera (parte)
 Jardim Ind. Pref. Cid. Azevedo Marques 	 
 
 - AP5 - Região São Luiz
@@ -136,7 +133,7 @@ Col. W. Plass VII
 Bosque da Saúde
 Lot. Ind. Jardim Werner Plass
 Parque Ind. Machadinho
-Jardim Recanto (parte)
+Jardim Recanto
 Chácara Machadinho
 Fazenda Machadinho
 Ind. M C Abrão
@@ -149,11 +146,9 @@ Vila Branca
 Campo Limpo I
 Campo Limpo II
 Chácara Sta. Cruz
-Jardim América
 Jardim Progresso
 Jardim Santarosa
-Jardim Santa Sofia (parte)
-Vila Belvedere (parte)
+Vila Belvedere
 Jardim Luciani
 Jardim Helena
 Parque Resid. Boa Vista
@@ -211,9 +206,7 @@ Jardim Dona Judith
 Jardim Novo Horizonte
 Jardim Guanabara
 Jardim Lizandra
-Jardim Paulista
 Jardim Paulistano
-Jardim Progresso
 Vila Santa Maria
 Vila Zanini
 
@@ -241,7 +234,6 @@ Vila Frezzarin
 Vila Frezzarin II
 Vila Frezzarin III
 Vila Frezzarin IV
-Vila Medon
 Vila Pântano
 Vila Paraíso
 Vila Santo Antônio
@@ -251,12 +243,11 @@ Vila Tônica
 
 - AP9 - Região Nova Americana / Santa Catarina
 
-Cidade Jardim *
+Cidade Jardim
 Conserva
 Jardim Briedis
 Jardim Maria Cristina
 Jardim Nova Americana
-Jardim Recanto
 Jardim São Pedro
 Jardim Melinski
 Vila Biasi
@@ -280,7 +271,6 @@ Fazenda Cillos
 Fazenda Jacyra
 Filipada
 Jardim Alvorada
-Jardim Brasília
 Jardim das Flores
 Jardim dos Lírios
 Condomínio Lilases
