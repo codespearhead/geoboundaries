@@ -2,6 +2,7 @@
 |---|---|---|---|---|---|
 | Caucaia-CE | Ícaro Bonfim | ✅ | ✅| ✅ | ❌ |
 | Botelhos-MG | Marcus Lima | ✅ | ✅ | ✅ | ❌ |
+| Paraíso do Tocantins - TO | Renan Aires | ✅ | ✅ | ✅ | ❌ |
 | Americana-SP | David | ✅ | ✅ | ✅ | ❌ |
 | Silvânia-GO | Matheus Brito | ✅ | ✅ | ✅ | ❌ |
 | São Paulo - SP | ? | ✅ | ✅ | ❌ | ❌ |
@@ -14,5 +15,4 @@
 | Caruaru-PE | Vitinho Maia | ✅ | ✅ | ❌ | ❌ |
 | Itamaraju-BA | Miguel Xavier | ✅ | ❌ | ❌ | ❌ |
 | Salinas-MG | Arthur Bastos | ✅ | ❌ | ❌ | ❌ |
-| Paraíso do Tocantins - TO | Renan Aires | ❌ | ❌ | ❌ | ❌ |
 | Presidente Figueiredo - AM | ? | ❌ | ❌ | ❌ | ❌ |

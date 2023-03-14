@@ -1,26 +1,42 @@
-Vila Regina
-Nova Fronteira
-Parque Industrial Álvaro Milhomem
-Jardim América
-Santa Clara
-Nova Esperança
-Pouso Alegre
-Alto Paraíso
-Bela Vista
-Centro
-Setor Oeste
-Setor Área Verde
-Setor Aeroporto
-Jardim Paulista
-Milena
-Interlagos
+- Norte
+Jardim Milena
 Vila Chapadão
+Terra Bela
+Vale do Araguaia
+Jardim Paulista
+Novo Jardim Paulista
+Novo Jardim Paulista II
+
+- Centro
+Pouso Alegre
+Parque das Águas
+Bela Vista
+Interlagos
+
+- Leste
 Parque dos Buritis
-Serrano I
-Serrano II
-Parque Agroindustrial de Paraíso do Tocantins
-Santana
+St. Serrano
+Jardim Limeira
+
+- Oeste
+Santa Clara
+Nova Fronteira
+Vila Regina
+Nova Esperança
+Vila Verde
+Vila Oeste
+Setor Bueno
+Jardim América
 Paraíso dos Ipês
-Paraíso Feliz I
-Paraíso Feliz II
-Residencial Newton Moraes
+Jardim das Acácias
+Flamboyant
+Marista
+Vila Oeste
+
+- Sul
+Universitário
+Universitário II
+Lago Sul
+Neuton Moraes
+PAIP
+Distrito de Santana
