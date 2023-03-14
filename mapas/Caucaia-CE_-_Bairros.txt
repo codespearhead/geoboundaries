@@ -4,11 +4,19 @@
 - Mirambê
 - Bom Princípio
 - Sítios Novos
+
 - Jurema
-- (Centro de) Caucaia
-Alto do Garrote
-Araturi
+Nova Metrópole
 Arianópoles
+Araturi
+Mal. Rondon
+Parque Albano
+Parque das Nações
+Potira I
+
+
+- Sede
+Alto do Garrote
 Açude
 Barra Nova
 Bom Jesus
@@ -37,17 +45,13 @@ Jardim Icaraí
 Lago Verde
 Lagoa do Banana
 Lagoa dos Porcos
-Marechal Rondon
 Mestre Antônio
 Nova Cigana
-Nova Metrópole
 Novo Pabussu
 Pabussu
 Pacheco
 Padre Júlio Maria
 Padre Romualdo
-Parque Albano
-Parque das Nações
 Parque Leblon
 Parque Soledade
 Patrícia Gomes
@@ -62,4 +66,3 @@ Tabuba
 Toco
 Urucutuba
 Área de Proteção Ambiental do Estuário do Rio Ceará
-Parque Potira

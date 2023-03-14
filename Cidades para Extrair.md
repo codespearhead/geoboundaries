@@ -1,5 +1,6 @@
 | Cidade | Assessor Responsável | Bairros Catalogados | Mapa Catalogado  | Mapa Nomeado | Mapa Finalizado |
 |---|---|---|---|---|---|
+| Caucaia-CE | Ícaro Bonfim | ✅ | ✅| ✅ | ❌ |
 | Botelhos-MG | Marcus Lima | ✅ | ✅ | ✅ | ❌ |
 | Americana-SP | David | ✅ | ✅ | ✅ | ❌ |
 | Silvânia-GO | Matheus Brito | ✅ | ✅ | ✅ | ❌ |
@@ -11,7 +12,6 @@
 | Natal-RN | Paulo Ovídio | ✅ | ✅ | ❌ | ❌ |
 | Vitória da Conquista-BH | Wesley Brito | ✅ | ✅ | ❌ | ❌ |
 | Caruaru-PE | Vitinho Maia | ✅ | ✅ | ❌ | ❌ |
-| Caucaia-CE | Ícaro Bonfim | ✅ | ❌| ❌ | ❌ |
 | Itamaraju-BA | Miguel Xavier | ✅ | ❌ | ❌ | ❌ |
 | Salinas-MG | Arthur Bastos | ✅ | ❌ | ❌ | ❌ |
 | Paraíso do Tocantins - TO | Renan Aires | ❌ | ❌ | ❌ | ❌ |
