@@ -5,6 +5,7 @@
 | Paraíso do Tocantins - TO | Renan Aires | ✅ | ✅ | ✅ | ❌ |
 | Americana-SP | David | ✅ | ✅ | ✅ | ❌ |
 | Silvânia-GO | Matheus Brito | ✅ | ✅ | ✅ | ❌ |
+| Itamaraju-BA | Miguel Xavier | ✅ | ✅ | ✅ | ❌ |
 | São Paulo - SP | ? | ✅ | ✅ | ❌ | ❌ |
 | Itapema - SC | Adriano Pivotto | ✅ | ✅ | ❌ | ❌ |
 | São Carlos-SP | Gabriel Mesquita | ✅ | ✅ | ❌ | ❌ |
@@ -13,6 +14,5 @@
 | Natal-RN | Paulo Ovídio | ✅ | ✅ | ❌ | ❌ |
 | Vitória da Conquista-BH | Wesley Brito | ✅ | ✅ | ❌ | ❌ |
 | Caruaru-PE | Vitinho Maia | ✅ | ✅ | ❌ | ❌ |
-| Itamaraju-BA | Miguel Xavier | ✅ | ❌ | ❌ | ❌ |
-| Salinas-MG | Arthur Bastos | ✅ | ❌ | ❌ | ❌ |
+| Salinas-MG | Arthur Bastos | ✅ | ✅ | ✅ | ❌ |
 | Presidente Figueiredo - AM | ? | ❌ | ❌ | ❌ | ❌ |
