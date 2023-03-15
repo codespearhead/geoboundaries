@@ -7,6 +7,7 @@
 | Silvânia-GO | Matheus Brito | ✅ | ✅ | ✅ | ❌ |
 | Itamaraju-BA | Miguel Xavier | ✅ | ✅ | ✅ | ❌ |
 | Salinas-MG | Arthur Bastos | ✅ | ✅ | ✅ | ❌ |
+| Presidente Figueiredo - AM | ? | ✅ | ✅ | ✅ | ❌ |
 | São Paulo - SP | ? | ✅ | ✅ | ❌ | ❌ |
 | Itapema - SC | Adriano Pivotto | ✅ | ✅ | ❌ | ❌ |
 | São Carlos-SP | Gabriel Mesquita | ✅ | ✅ | ❌ | ❌ |
@@ -15,4 +16,3 @@
 | Natal-RN | Paulo Ovídio | ✅ | ✅ | ❌ | ❌ |
 | Vitória da Conquista-BH | Wesley Brito | ✅ | ✅ | ❌ | ❌ |
 | Caruaru-PE | Vitinho Maia | ✅ | ✅ | ❌ | ❌ |
-| Presidente Figueiredo - AM | ? | ❌ | ❌ | ❌ | ❌ |
