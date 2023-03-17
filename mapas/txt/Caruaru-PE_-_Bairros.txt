@@ -1,0 +1,29 @@
+Descrição: Caso o "sublocality" do retornado esteja vazio, não seja nenhum dos bairros citados abaixo ou sublocality="nome da cidade em questão", favor tratá-lo como se estivesse na "Zona Rural" para fins estatísticos.
+
+- Rendeiras
+- Caiuca
+- Indianópolis
+- Nova Caruaru
+- Boa Vista
+- Petropolis
+- Cidade Alta
+- Salgado
+- Nossa Senhora das Dores
+- Santa Rosa
+- Universitário
+- Maurício de Nassau
+- Vassoural
+- Divinopolis
+- Cedro
+- João Mota
+- Centenário
+- São Francisco
+- Morro do Bom Jesus
+- Riacho
+- Kennedy
+- Alto do Moura
+- Agamenon Magalhães
+- Lajedo do Cedro
+- Gonçalves Ferreira
+- Carapotós
+- Zona Rural

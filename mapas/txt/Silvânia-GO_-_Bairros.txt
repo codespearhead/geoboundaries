@@ -1,0 +1,1 @@
+Descrição: Não há subdivisão geográfica (sublocality) alguma desta cidade no Google Maps, então teremos que ignorar a lista seguinte e apenas inserir as denúncias como presente na única camada do mapa desta cidade: Município de Silvânia-GO.

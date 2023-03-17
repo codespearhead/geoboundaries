@@ -1,6 +1,6 @@
-Fonte: https://desenvolvimento.americana.sp.gov.br/sde-index.php?p=habitacao
+Descrição: O mapa (arquivo SVG) está dividido em Áreas de Planejamento (APx), as quais contêm todos os bairros citados abaixo sem as fronteiras entre os bairros. Isto é, as camadas do mapa são as APx. Não há menção das APx no Google Maps, apenas dos bairros nelas contidas. Caso o "sublocality" do retornado esteja vazio, não seja nenhum dos bairros citados abaixo ou sublocality="nome da cidade em questão", favor tratá-lo como se estivesse na "Zona Rural" para fins estatísticos.
 
-- AP1 - Centro
+- AP1: Centro
 
 Bairro Leitão
 Centro
@@ -13,7 +13,7 @@ Vila Paraiso
 Parte da Conserva
 Parte da Chácara Rodrigues
 
-- AP2 - Região Zanaga
+- AP2: Região Zanaga
 
 Lot. Ind. Dist. Pref. Abdo Najar I
 Lot. Ind. Dist. Pref. Abdo Najar II
@@ -49,7 +49,7 @@ Resid. Vale Paineiras
 Resid. Praia dos Namorados
 Riviera Tamborlim
 
-- AP3 - Região Praia Azul
+- AP3: Região Praia Azul
 
 Berinjela
 Jardim Iate Clube de Campinas
@@ -81,7 +81,7 @@ Bairro da Lagoa
 Portal dos Nobres
 Jardim Imperador
 
-- AP4 - Região São Vito
+- AP4: Região São Vito
 
 Vila Cordenonsi
 Carioba
@@ -112,7 +112,7 @@ Vila Bertini II
 Vila Bertini III
 Jardim Ind. Pref. Cid. Azevedo Marques 	 
 
-- AP5 - Região São Luiz
+- AP5: Região São Luiz
 
 Jardim Colina
 Jardim Santana
@@ -163,7 +163,7 @@ Sítio Boa Vista
 Sítio Maniçoba
 Fazenda Santa Angélica
 
-- AP6 - Região São Jerônimo
+- AP6: Região São Jerônimo
 
 Jardim Bazanelli
 Parte Vila Dainese
@@ -183,7 +183,7 @@ Jardim Mario Covas I
 Jardim Mario Covas II
 Jardim Mario Covas III 	 
 
-- AP7 - Região São Domingos / Amorim
+- AP7: Região São Domingos / Amorim
 
 Vila Louricilda
 Vila Massucheto
@@ -210,7 +210,7 @@ Jardim Paulistano
 Vila Santa Maria
 Vila Zanini
 
-- AP8 - Região Ipiranga / Jd. São Paulo
+- AP8: Região Ipiranga / Jd. São Paulo
 
 Chácara Girassol
 Horto Florestal
@@ -241,7 +241,7 @@ Vila Molon
 Vila San Pietro
 Vila Tônica
 
-- AP9 - Região Nova Americana / Santa Catarina
+- AP9: Região Nova Americana / Santa Catarina
 
 Cidade Jardim
 Conserva
@@ -263,7 +263,7 @@ Vila Santa Catarina III
 Vila São Pedro
 Vila Santa Julia
 
-- AP10 - Região São Domingos / Amorim
+- AP10: Região São Domingos / Amorim
 
 Cachoeira
 Cidade Jardim
@@ -291,5 +291,7 @@ Vila Vitória
 - Zona Rural
 
 Área Rural Pós–Represa
+Estr. Usina Estér
 Colônia Sobrado Velho
 Assentamento Milton Santos
+Bosque dos Ipês

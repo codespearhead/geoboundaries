@@ -1,0 +1,15 @@
+Descrição: Caso o "sublocality" do retornado esteja vazio, não seja nenhum dos bairros citados abaixo ou sublocality="nome da cidade em questão", favor tratá-lo como se estivesse na "Zona Rural" para fins estatísticos.
+
+- Meia Praia
+- Sertãozinho
+- Alto São Bento
+- Casa Branca
+- Várzea
+- Tabuleiro dos Oliveiras
+- Morretes
+- Jardim Praiamar
+- Centro
+- Canto da Praia
+- Ilhota
+- Sertão do Trombudo
+- Zona Rural

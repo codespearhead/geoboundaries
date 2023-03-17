@@ -1,0 +1,13 @@
+Descrição: Caso o "sublocality" do retornado esteja vazio, não seja nenhum dos bairros citados abaixo ou sublocality="nome da cidade em questão", favor tratá-lo como se estivesse na "Zona Rural" para fins estatísticos.
+
+- Aida Mendonça
+- Galo da Serra
+- Morada do Sol
+- Honório Roldão
+- Centro
+- Tancredo Neves
+- José Dutra
+- Sol Nascente
+- Orquídeas
+- Marunga
+- Zona Rural

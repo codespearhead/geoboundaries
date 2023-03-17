@@ -1,0 +1,18 @@
+Descrição: Caso o "sublocality" do retornado esteja vazio, não seja nenhum dos bairros citados abaixo ou sublocality="nome da cidade em questão", favor tratá-lo como se estivesse na "Sede" para fins estatísticos.
+
+- Sede
+
+Baixa Grande
+Boqueirão
+Lajinha
+Saco
+Curralinho
+Canela de Ema
+Pinhãozeiro
+
+- Ferreirópolis
+
+Ferreirópolis
+Montes Clarinhos
+
+- Nova Matrona

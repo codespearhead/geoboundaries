@@ -1,3 +1,5 @@
+Descrição: Caso o "sublocality" do retornado esteja vazio, não seja nenhum dos bairros citados abaixo ou sublocality="nome da cidade em questão", favor tratá-lo como se estivesse na "Sede" para fins estatísticos.
+
 - Cercadinho
 - Inhobim
 - Veredinha
@@ -10,7 +12,8 @@
 - São Sebastião
 - José Gonçalves
 
-- (Centro de) Vitória da Conquista
+- Sede
+
 Ayrton Senna
 Patagônia
 Alto da Universidade
