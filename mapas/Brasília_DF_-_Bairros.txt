@@ -23,11 +23,13 @@
 - SIA
 - Sobradinho II
 - Sobradinho
-- Sudoeste/Octogonal
+- Octogonal
+- St. Sudoeste
 - São Sebastião
 - Taguatinga
 - Varjão
 - Vicente Pires
 - Águas Claras
-- Sol Nascente
 - Arniqueiras
+- Cruzeiro Velho
+- Cruzeiro Novo
