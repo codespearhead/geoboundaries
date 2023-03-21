@@ -53,6 +53,7 @@ TODO: Explain [ISO3166-2](https://pt.wikipedia.org/wiki/ISO_3166-2:BR)
 | Salinas - MG | Arthur Bastos | ✅ | ✅ | ✅ | ✅ |
 | Silvânia - GO | Matheus Brito | ✅ | ✅ | ✅ | ✅ |
 | Vitória da Conquista - BH | Wesley Brito | ✅ | ✅ | ✅ | ✅ |
+| Boa Vista - RR | Naira Rodrigues | ❌ | ✅ | ❌ | ❌ |
 
 <br>
 </details>
