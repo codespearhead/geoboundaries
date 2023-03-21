@@ -26,6 +26,39 @@ All examples can be run online via [Overpass Turbo](https://overpass-turbo.eu/).
 
 TODO: Explain [ISO3166-2](https://pt.wikipedia.org/wiki/ISO_3166-2:BR)
 
+
+## Extracted Cities
+
+<br>
+
+<details>
+<summary>Click me</summary>
+<br>
+
+| Cidade | Assessor Responsável | Bairros Catalogados | Mapa Catalogado  | Mapa Nomeado | Finished |
+|---|---|---|---|---|---|
+| Americana - SP | David | ✅ | ✅ | ✅ | ✅ |
+| Barbacena - MG | Odair Ferreira | ✅ | ✅ | ✅ | ✅ |
+| Botelhos - MG | Marcus Lima | ✅ | ✅ | ✅ | ✅ |
+| Brasília - DF | Paula Belmonte | ✅ | ✅ | ✅ | ✅ |
+| Caucaia - CE | Ícaro Bonfim | ✅ | ✅| ✅ | ✅ |
+| Caruaru - PE | Vitinho Maia | ✅ | ✅ | ✅ | ✅ |
+| Itamaraju - BA | Miguel Xavier | ✅ | ✅ | ✅ | ✅ |
+| Itapema - SC | Adriano Pivotto | ✅ | ✅ | ✅ | ✅ |
+| Natal - RN | Paulo Ovídio | ✅ | ✅ | ✅ | ✅ |
+| Paraíso do Tocantins - TO | Renan Aires | ✅ | ✅ | ✅ | ✅ |
+| Presidente Figueiredo - AM | ? | ✅ | ✅ | ✅ | ✅ |
+| São Carlos - SP | Gabriel Mesquita | ✅ | ✅ | ✅ | ✅ |
+| São Paulo - SP | ? | ✅ | ✅ | ✅ | ✅ |
+| Salinas - MG | Arthur Bastos | ✅ | ✅ | ✅ | ✅ |
+| Silvânia - GO | Matheus Brito | ✅ | ✅ | ✅ | ✅ |
+| Vitória da Conquista - BH | Wesley Brito | ✅ | ✅ | ✅ | ✅ |
+
+<br>
+</details>
+
+<br>
+
 ## Code Snippets
 
 1. Get all Brazilian territories / borders
