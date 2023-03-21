@@ -35,7 +35,7 @@ TODO: Explain [ISO3166-2](https://pt.wikipedia.org/wiki/ISO_3166-2:BR)
 <summary>Click me</summary>
 <br>
 
-| Cidade | Assessor Responsável | Bairros Catalogados | Mapa Catalogado  | Mapa Nomeado | Finished |
+| Cidade | Assessor Responsável | Bairros Catalogados | Mapa Catalogado | Mapa Nomeado | Finished |
 |---|---|---|---|---|---|
 | Americana - SP | David | ✅ | ✅ | ✅ | ✅ |
 | Barbacena - MG | Odair Ferreira | ✅ | ✅ | ✅ | ✅ |
