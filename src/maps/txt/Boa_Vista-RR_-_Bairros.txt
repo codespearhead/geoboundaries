@@ -1,60 +1,61 @@
-Colina Park
-João de Barro
-Sítios de Recreio Jardim América
-Monte Cristo
-Said Salomão
-Pedra Pintada
-Distrito Industrial
-Jardim das Copaíbas
-Pérola
-Nova Cidade
-Bela Vista
-Raiar do Sol
-Operário
-Senador Hélio Campos
-Laura Moreira
-Profa. Araceli Souto Maior
-Centenário
-São Bento
-Treze de Setembro
-Calungá
-São Vicente
-Pricumã
-Buritis
-Liberdade
-Mecejana
-São Francisco
-Nossa Senhora Aparecida
-Trinta e Um de Março
-São Pedro
-Canarinho
-Centro
-Estados
-Murilo Teixeira Cidade
-Equatorial
-Santa Luzia
-Alvorada
-Silvio Leite
-Nova Canaã
-Cidade Satélite
-Jardim Caranã
-União
-Piscicultura
-Jardim Primavera
-Aeroporto
-Paraviana
-Caçari
-Cauamé
-Pintolândia
-Sílvio Botelho
-Jardim Tropical
-Jóquei Clube
-Olímpico
-Cambará
-Asa Branca
-Cinturão Verde
-Caimbé
-Tancredo Neves
-Santa Tereza
-Caranã
-Jardim Floresta
+Descrição: Caso o "sublocality" do retornado esteja vazio, não seja nenhum dos bairros citados abaixo ou sublocality="nome da cidade em questão", favor tratá-lo como se estivesse na "Said Salomão e Monte Cristo" para fins estatísticos.
+
+- Colina Park
+- João de Barro
+- Sítios de Recreio Jardim América
+- Said Salomão e Monte Cristo
+- Pedra Pintada
+- Distrito Industrial
+- Jardim das Copaíbas
+- Pérola
+- Nova Cidade
+- Bela Vista
+- Raiar do Sol
+- Operário
+- Senador Hélio Campos
+- Laura Moreira
+- Profa. Araceli Souto Maior
+- Centenário
+- São Bento
+- Treze de Setembro
+- Calungá
+- São Vicente
+- Pricumã
+- Buritis
+- Liberdade
+- Mecejana
+- São Francisco
+- Nossa Senhora Aparecida
+- Trinta e Um de Março
+- São Pedro
+- Canarinho
+- Centro
+- Estados
+- Murilo Teixeira Cidade
+- Equatorial
+- Santa Luzia
+- Alvorada
+- Silvio Leite
+- Nova Canaã
+- Cidade Satélite
+- Jardim Caranã
+- União
+- Piscicultura
+- Jardim Primavera
+- Aeroporto
+- Paraviana
+- Caçari
+- Cauamé
+- Pintolândia
+- Sílvio Botelho
+- Jardim Tropical
+- Jóquei Clube
+- Olímpico
+- Cambará
+- Asa Branca
+- Cinturão Verde
+- Caimbé
+- Tancredo Neves
+- Santa Tereza
+- Caranã
+- Jardim Floresta
