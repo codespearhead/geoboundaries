@@ -1,60 +1,60 @@
+Colina Park
+João de Barro
+Sítios de Recreio Jardim América
+Monte Cristo
+Said Salomão
+Pedra Pintada
 Distrito Industrial
 Jardim das Copaíbas
-Caranã
-Cauamé
-Jardim Caranã
-União
-Centro
+Pérola
+Nova Cidade
+Bela Vista
+Raiar do Sol
+Operário
+Senador Hélio Campos
+Laura Moreira
+Profa. Araceli Souto Maior
+Centenário
+São Bento
+Treze de Setembro
 Calungá
-31 de março
+São Vicente
+Pricumã
+Buritis
+Liberdade
+Mecejana
 São Francisco
 Nossa Senhora Aparecida
+Trinta e Um de Março
 São Pedro
-Caçari
-Paraviana
-Estados
-Jardim Floresta
-Liberdade
-Said Salomão
-Pricumã
-Mecejana
-Cidade Satélite
-Pedra Pintada
-João de Barro
-São Vicente
-13 de Setembro
-Cinturão Verde
-Centenário
-Jóquei Clube
 Canarinho
-Buritis
-Asa Branca
-Caimbé
-Tancredo Neves
-São Bento
-Prof. Aracelis Souto Maior
+Centro
+Estados
+Murilo Teixeira Cidade
+Equatorial
+Santa Luzia
+Alvorada
+Silvio Leite
+Nova Canaã
+Cidade Satélite
+Jardim Caranã
+União
+Piscicultura
+Jardim Primavera
+Aeroporto
+Paraviana
+Caçari
+Cauamé
+Pintolândia
+Sílvio Botelho
 Jardim Tropical
-Raiar do Sol
-Bela Vista
-Nova Cidade
-Operário
+Jóquei Clube
 Olímpico
 Cambará
-Senador Hélio Campos
-Sílvio Botelho
-Pintolândia
-Nova Canaã
-Santa Luzia
-Jardim Primavera
-Piscicultura
+Asa Branca
+Cinturão Verde
+Caimbé
+Tancredo Neves
 Santa Tereza
-Aeroporto
-Silvio Leite
-Alvorada
-Laura Moreira
-Equatorial
-Pérola
-Murilo Teixeira Cidade
-Colina Park
-Monte Cristo
-Sítios de Recreio Jardim América
+Caranã
+Jardim Floresta
