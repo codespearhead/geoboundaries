@@ -54,7 +54,7 @@ TODO: Explain [ISO3166-2](https://pt.wikipedia.org/wiki/ISO_3166-2:BR)
 | Silvânia - GO | Matheus Brito | ✅ | ✅ | ✅ | ✅ |
 | Vitória da Conquista - BH | Wesley Brito | ✅ | ✅ | ✅ | ✅ |
 | Boa Vista - RR | Naira Rodrigues | ✅ | ✅ | ✅ | ✅ |
-| Belém - PA | Matheus Cavalcante | ❌ | ❌ | ❌ | ❌ |
+| Belém - PA | Matheus Cavalcante | ✅ | ✅ | ✅ | ✅ |
 | Cuiabá - MT | Abilio Moumer | ❌ | ❌ | ❌ | ❌ |
 | Campo Grande - MS | Beto Pereira | ❌ | ❌ | ❌ | ❌ |
 
