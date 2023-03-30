@@ -13,14 +13,6 @@ Coronel Antonino
 Nova Lima
 Nasser
 
-
-- Imbirussu
-- Lagoa
-- Anhanduizinho
-- Bandeira
-- Centro
-
-
 - Prosa
 Novos Estados
 Estrela Dalva
@@ -32,11 +24,112 @@ Santa Fé
 Chácara Cachoeira
 Cidade Jardim
 Desbarrancado
+Mata do Jacinto
+Jatiúca Park
+Margarida
+Coophafé
 
+- Bandeira
+Tiradentes
+São Lourenço
+Vilasboas
+Carlota
+Doutor Albuquerque
+TV Morena
+Universitário
+Rita Vieira
+Jardim Moema
+Recanto dos Rouxinóis
 
-Campo Grande
+- Anhanduizinho
+Centro Oeste
+Los Angeles
+Lageado
+Centenário
+Aero Rancho
+Parati
+Jacy
+Guanandi
+Piratininga
+América
+Jockey Club
+Taquarussú
+Pioneiros
+Alves Pereira
+Jardim Macapá
+Cidade Nova
+São Luís I
+Jardim Jane
+Jardim Botânico
+Jardim Roselândia
+Jardim Anápolis I
+Universitário Seção C
+Residencial Joana d'Arc
+Jardim das Mansões Universitárias
 Residencial Botafogo
+Vila Valparaíso
+
+- Imbirussu
+Núcleo Industrial
+Nova Campo Grande
+Popular
+Panamá
+Santo Amaro
+Santo Antônio
+Sobrinho
+
+- Lagoa
+Caiobá
+União
+Tijuca
+Batistão
+Coophavila II
+Tarumã
+Taveirópolis
+
+- Centro
+Campo Grande
+Planalto
+Amambaí
+Vila Aurora
+Vila Warde
+Vila Portão de Ferro
+Vila São Vicente
+Sargento Amaral
+Carvalho
+Vila Carvalho Baís
+Vila Carvalho
+Vila Quito
+Vila São José
+Glória
+Vila Nossa Senhora de Lourdes
+Allah
+Vila Santo André
+Monte Líbano
+Vila São Miguel
+Jardim dos Estados
+Vila Mariana
+Vila Tupaceretan
+Vila Bernardo Goldman
+Vila Ises
+Vila São Gabriel
+Vila São Jorge
+Cachoeira
+Vila Santos Gomes
+Vila Esportiva
+Chácara dos Coqueiros
+Jardim Sete de Setembro
+Bela Vista
+Vila Joselito
+Glaucos da Costa Marques
+Itanhangá Park
+São Bento
 Nova São Bento
+Vila Rezende
+Vila Gatão
+Vila Doutor João Rosa
+Vila Rosa Pires
+Vila Piracicaba
 Vila Bartíria
 Vila Castelo
 Vila Eva
@@ -45,83 +138,54 @@ Vila Gaspar
 Vila Glória
 Vila Oriente
 Vila Ornelas
-Vila Ornelas
 Vila Santa Filomena
 Vila Sol Nascente
-Vila São Miguel
 Vila Taveira
-Allah
 Alvorada
-Carvalho
-Glória
-Monte Líbano
-Monte Líbano
-Sargento Amaral
 Vila Americana
-Vila Aurora
-Vila Carvalho Baís
-Vila Carvalho
 Vila Cidade
 Vila Floresta
-Vila Gatão
 Vila Guenka
 Vila Liberdade
-Vila Nossa Senhora de Lourdes
 Vila Oliveira
 Vila Orpheu Baís
-Vila Piracicaba
-Vila Portão de Ferro
-Vila Quito
 Vila Santa Dorothéa
 Vila Santa Luiza
 Vila Santa Maria
-Vila Santo André
-Vila São José
 Vila São Rafael
-Vila São Vicente
-Vila Valparaíso
-Vila Warde
 Itanhangá
-Vila Doutor João Rosa
-Vila Joselito
-Vila Rezende
-Vila Rosa Pires
 Seminário
-Mata do Jacinto
+Seminário I
+Seminário II
 Aclimação
-Cachoeira
 Cachoeirinha
-Centro
 Chácara Boa Vista
-Chácara dos Coqueiros
-Glaucos da Costa Marques
-Itanhangá Park
-Jardim 7 de Setembro
-Jardim dos Estados
-Jatiúca Park
 Miguel Couto
-Vila 15 de Novembro
+Vila Quinze de Novembro
 Vila Alta
 Vila América
 Vila Clementina
 Vila Costa Lima
-Vila Esportiva
 Vila General Wolgrand
 Vila Ilgenfritz
 Vila Jardim dos Estados
 Vila Mandetta
-Vila Mariana
 Vila Onze
 Vila Santa Catarina
-Vila Santos Gomes
-Vila São Gabriel
-Vila São Jorge
-Vila Tupaceretan
-Margarida
-Coophafé
+
+
+
+
+
+
+
+
+
+
+
+
+
 Royal Park
-Vila Bernardo Goldman
-Vila Ises
 Vila Nova Ipanema
 Vila Paraíso
 Vila Santa Odete
@@ -129,60 +193,16 @@ Vivendas do Bosque
 Noroeste
 Cruzeiro
 Maria Aparecida Pedrossian
-Tiradentes
-Bela Vista
-São Lourenço
-São Bento
-Vilasboas
-TV Morena
-Carlota
-Doutor Albuquerque
-Universitário
-Rita Vieira
 Moreninha
-Panamá
-Centro Oeste
-Los Angeles
-Alves Pereira
-Lageado
-Pioneiros
-
-Sobrinho
 José Abrão
-Santo Antônio
-Santo Amaro
-Popular
-Amambaí
 São Francisco
 Cabreúva
 Bandeirantes
-Nova Campo Grande
-Taveirópolis
 Caiçara
-Cidade Nova
-Jardim Macapá
 Núcleo Habitacional Universitária
-Parati
-Aero Rancho
-Centenário
-União
-Jockey Club
 Leblon
-Taquarussú
-Jacy
-Guanandi
-Piratininga
-Tijuca
-Batistão
-Coophavila II
-Tarumã
 São Conrado
-Caiobá
-Núcleo Industrial
-América
-
 Jardim Paulista
-Planalto
 Portal do Gramado
 Vila São Benedito
 Oracília
@@ -210,17 +230,7 @@ Beirute
 Parque dos Poderes
 Vila Abdalla
 Jardim Botafogo
-Jardim das Mansões Universitárias
 Jardim Rubiacea
-Jardim Anápolis I
-Jardim Botânico
-Jardim Roselândia
-Jardim Jane
-Santa Branca II
-São Luís I
 Jardim Agulhas Negras
-Universitário Seção C
-Residencial Joana d'Arc
-Jardim Moema
-Recanto dos Rouxinóis
+Santa Branca II
 Vila São Rafael
