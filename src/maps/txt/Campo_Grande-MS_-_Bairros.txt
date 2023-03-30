@@ -6,29 +6,6 @@ Fonte: https://srcg.com.br/public/leis/lei_complementar_do_plano_diretor_de_camp
 - Rochedinho
 - Sede
 
-- Segredo
-Mata do Segredo
-Monte Castelo
-Coronel Antonino
-Nova Lima
-Nasser
-
-- Prosa
-Novos Estados
-Estrela Dalva
-Chácara dos Poderes
-Veraneio
-Carandá Bosque
-Autonomista
-Santa Fé
-Chácara Cachoeira
-Cidade Jardim
-Desbarrancado
-Mata do Jacinto
-Jatiúca Park
-Margarida
-Coophafé
-
 - Bandeira
 Tiradentes
 São Lourenço
@@ -40,6 +17,9 @@ Universitário
 Rita Vieira
 Jardim Moema
 Recanto dos Rouxinóis
+Maria Aparecida Pedrossian
+Moreninha
+Jardim Paulista
 
 - Anhanduizinho
 Centro Oeste
@@ -68,6 +48,11 @@ Residencial Joana d'Arc
 Jardim das Mansões Universitárias
 Residencial Botafogo
 Vila Valparaíso
+Núcleo Habitacional Universitária
+Jardim Botafogo
+Jardim Rubiacea
+Jardim Agulhas Negras
+Santa Branca II
 
 - Imbirussu
 Núcleo Industrial
@@ -86,6 +71,33 @@ Batistão
 Coophavila II
 Tarumã
 Taveirópolis
+Bandeirantes
+Caiçara
+Leblon
+São Conrado
+
+- Prosa
+Novos Estados
+Estrela Dalva
+Chácara dos Poderes
+Veraneio
+Carandá Bosque
+Autonomista
+Santa Fé
+Chácara Cachoeira
+Cidade Jardim
+Desbarrancado
+Mata do Jacinto
+Jatiúca Park
+Margarida
+Coophafé
+Royal Park
+Vila Nova Ipanema
+Vivendas do Bosque
+Noroeste
+Beirute
+Parque dos Poderes
+Vila Abdalla
 
 - Centro
 Campo Grande
@@ -172,37 +184,20 @@ Vila Jardim dos Estados
 Vila Mandetta
 Vila Onze
 Vila Santa Catarina
-
-
-
-
-
-
-
-
-
-
-
-
-
-Royal Park
-Vila Nova Ipanema
 Vila Paraíso
 Vila Santa Odete
-Vivendas do Bosque
-Noroeste
 Cruzeiro
-Maria Aparecida Pedrossian
-Moreninha
-José Abrão
 São Francisco
 Cabreúva
-Bandeirantes
-Caiçara
-Núcleo Habitacional Universitária
-Leblon
-São Conrado
-Jardim Paulista
+Vila São Rafael
+
+- Segredo
+Mata do Segredo
+Monte Castelo
+Coronel Antonino
+Nova Lima
+Nasser
+José Abrão
 Portal do Gramado
 Vila São Benedito
 Oracília
@@ -211,10 +206,8 @@ Vila Leda
 Vila Saraiva
 Vila São Roque
 Octávio Pécora
-Bom Retiro
 Coophasul
 Dona Dede
-Esperança
 Morada dos Deuses
 Recando do Cerrado
 Santa Luzia
@@ -226,11 +219,3 @@ Vila Nossa Senhora Aparecida
 Vila Novo Horizonte
 Água Limpa Park
 José Abrão
-Beirute
-Parque dos Poderes
-Vila Abdalla
-Jardim Botafogo
-Jardim Rubiacea
-Jardim Agulhas Negras
-Santa Branca II
-Vila São Rafael
