@@ -58,6 +58,7 @@ TODO: Explain [ISO3166-2](https://pt.wikipedia.org/wiki/ISO_3166-2:BR)
 | Cuiabá - MT | Abilio Moumer | ❌ | ❌ | ❌ | ❌ |
 | Campo Grande - MS | Beto Pereira | ❌ | ❌ | ❌ | ❌ |
 | Rio Claro - SP | Andrey Sepulveda | ❌ | ❌ | ❌ | ❌ |
+| Maracás - BA | Jamon | ❌ | ❌ | ❌ | ❌ |
 
 <br>
 </details>
