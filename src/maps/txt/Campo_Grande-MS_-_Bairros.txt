@@ -1,12 +1,41 @@
-Anhanduí
-Campo Grande
-Rochedinho
-Residencial Botafogo
+Caso o "sublocality" do retornado esteja vazio, não seja nenhum dos bairros citados abaixo ou sublocality="nome da cidade em questão", favor tratá-lo como se estivesse na "Sede" para fins estatísticos.
+
+Fonte: https://srcg.com.br/public/leis/lei_complementar_do_plano_diretor_de_campo_grande.pdf (Pág. 31)
+
+- Anhanduí
+- Rochedinho
+- Sede
+
+- Segredo
+Mata do Segredo
 Monte Castelo
 Coronel Antonino
-Mata do Segredo
 Nova Lima
+Nasser
+
+
+- Imbirussu
+- Lagoa
+- Anhanduizinho
+- Bandeira
+- Centro
+
+
+- Prosa
 Novos Estados
+Estrela Dalva
+Chácara dos Poderes
+Veraneio
+Carandá Bosque
+Autonomista
+Santa Fé
+Chácara Cachoeira
+Cidade Jardim
+Desbarrancado
+
+
+Campo Grande
+Residencial Botafogo
 Nova São Bento
 Vila Bartíria
 Vila Castelo
@@ -89,22 +118,15 @@ Vila São Gabriel
 Vila São Jorge
 Vila Tupaceretan
 Margarida
-Estrela Dalva
 Coophafé
 Royal Park
-Santa Fé
-Santa Fé
 Vila Bernardo Goldman
 Vila Ises
 Vila Nova Ipanema
 Vila Paraíso
 Vila Santa Odete
 Vivendas do Bosque
-Chácara dos Poderes
 Noroeste
-Veraneio
-Carandá Bosque
-Chácara Cachoeira
 Cruzeiro
 Maria Aparecida Pedrossian
 Tiradentes
@@ -124,7 +146,7 @@ Los Angeles
 Alves Pereira
 Lageado
 Pioneiros
-Nasser
+
 Sobrinho
 José Abrão
 Santo Antônio
@@ -158,7 +180,7 @@ São Conrado
 Caiobá
 Núcleo Industrial
 América
-Autonomista
+
 Jardim Paulista
 Planalto
 Portal do Gramado
@@ -185,8 +207,6 @@ Vila Novo Horizonte
 Água Limpa Park
 José Abrão
 Beirute
-Cidade Jardim
-Desbarrancado
 Parque dos Poderes
 Vila Abdalla
 Jardim Botafogo
