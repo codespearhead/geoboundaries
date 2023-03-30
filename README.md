@@ -35,7 +35,7 @@ TODO: Explain [ISO3166-2](https://pt.wikipedia.org/wiki/ISO_3166-2:BR)
 <summary>Click me</summary>
 <br>
 
-| Cidade | Assessor Responsável | Bairros Catalogados | Mapa Catalogado | Mapa Nomeado | Finished |
+| Cidade | Assessor Responsável | Bairros Catalogados | Mapa Catalogado | Mapa Nomeado | Etapa 1 Finalizada |
 |---|---|---|---|---|---|
 | Americana - SP | David | ✅ | ✅ | ✅ | ✅ |
 | Barbacena - MG | Odair Ferreira | ✅ | ✅ | ✅ | ✅ |
@@ -58,7 +58,7 @@ TODO: Explain [ISO3166-2](https://pt.wikipedia.org/wiki/ISO_3166-2:BR)
 | São Paulo - SP | ? | ✅ | ✅ | ✅ | ✅ |
 | Salinas - MG | Arthur Bastos | ✅ | ✅ | ✅ | ✅ |
 | Silvânia - GO | Matheus Brito | ✅ | ✅ | ✅ | ✅ |
-| Vitória da Conquista - BH | Wesley Brito | ✅ | ✅ | ✅ | ✅ |
+| Vitória da Conquista - BA | Wesley Brito | ✅ | ✅ | ✅ | ✅ |
 
 <br>
 </details>
