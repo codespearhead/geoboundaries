@@ -55,8 +55,8 @@ TODO: Explain [ISO3166-2](https://pt.wikipedia.org/wiki/ISO_3166-2:BR)
 | Vitória da Conquista - BH | Wesley Brito | ✅ | ✅ | ✅ | ✅ |
 | Boa Vista - RR | Naira Rodrigues | ✅ | ✅ | ✅ | ✅ |
 | Belém - PA | Matheus Cavalcante | ✅ | ✅ | ✅ | ✅ |
+| Campo Grande - MS | Beto Pereira | ❌ | ✅ | ✅ | ✅ |
 | Cuiabá - MT | Abilio Moumer | ❌ | ❌ | ❌ | ❌ |
-| Campo Grande - MS | Beto Pereira | ❌ | ❌ | ❌ | ❌ |
 | Rio Claro - SP | Andrey Sepulveda | ❌ | ❌ | ❌ | ❌ |
 | Maracás - BA | Jamon | ❌ | ❌ | ❌ | ❌ |
 
