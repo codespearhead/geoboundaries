@@ -39,26 +39,26 @@ TODO: Explain [ISO3166-2](https://pt.wikipedia.org/wiki/ISO_3166-2:BR)
 |---|---|---|---|---|---|
 | Americana - SP | David | ✅ | ✅ | ✅ | ✅ |
 | Barbacena - MG | Odair Ferreira | ✅ | ✅ | ✅ | ✅ |
+| Belém - PA | Matheus Cavalcante | ✅ | ✅ | ✅ | ✅ |
+| Boa Vista - RR | Naira Rodrigues | ✅ | ✅ | ✅ | ✅ |
 | Botelhos - MG | Marcus Lima | ✅ | ✅ | ✅ | ✅ |
 | Brasília - DF | Paula Belmonte | ✅ | ✅ | ✅ | ✅ |
-| Caucaia - CE | Ícaro Bonfim | ✅ | ✅| ✅ | ✅ |
+| Campo Grande - MS | Beto Pereira | ✅ | ✅ | ✅ | ✅ |
 | Caruaru - PE | Vitinho Maia | ✅ | ✅ | ✅ | ✅ |
+| Caucaia - CE | Ícaro Bonfim | ✅ | ✅| ✅ | ✅ |
+| Cuiabá - MT | Abilio Moumer | ❌ | ❌ | ❌ | ❌ |
 | Itamaraju - BA | Miguel Xavier | ✅ | ✅ | ✅ | ✅ |
 | Itapema - SC | Adriano Pivotto | ✅ | ✅ | ✅ | ✅ |
+| Maracás - BA | Jamon | ❌ | ❌ | ❌ | ❌ |
 | Natal - RN | Paulo Ovídio | ✅ | ✅ | ✅ | ✅ |
 | Paraíso do Tocantins - TO | Renan Aires | ✅ | ✅ | ✅ | ✅ |
 | Presidente Figueiredo - AM | ? | ✅ | ✅ | ✅ | ✅ |
+| Rio Claro - SP | Andrey Sepulveda | ❌ | ❌ | ❌ | ❌ |
 | São Carlos - SP | Gabriel Mesquita | ✅ | ✅ | ✅ | ✅ |
 | São Paulo - SP | ? | ✅ | ✅ | ✅ | ✅ |
 | Salinas - MG | Arthur Bastos | ✅ | ✅ | ✅ | ✅ |
 | Silvânia - GO | Matheus Brito | ✅ | ✅ | ✅ | ✅ |
 | Vitória da Conquista - BH | Wesley Brito | ✅ | ✅ | ✅ | ✅ |
-| Boa Vista - RR | Naira Rodrigues | ✅ | ✅ | ✅ | ✅ |
-| Belém - PA | Matheus Cavalcante | ✅ | ✅ | ✅ | ✅ |
-| Campo Grande - MS | Beto Pereira | ❌ | ✅ | ✅ | ✅ |
-| Cuiabá - MT | Abilio Moumer | ❌ | ❌ | ❌ | ❌ |
-| Rio Claro - SP | Andrey Sepulveda | ❌ | ❌ | ❌ | ❌ |
-| Maracás - BA | Jamon | ❌ | ❌ | ❌ | ❌ |
 
 <br>
 </details>
