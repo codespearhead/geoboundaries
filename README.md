@@ -35,30 +35,30 @@ TODO: Explain [ISO3166-2](https://pt.wikipedia.org/wiki/ISO_3166-2:BR)
 <summary>Click me</summary>
 <br>
 
-| Cidade | Assessor Responsável | Bairros Catalogados | Mapa Catalogado | Mapa Nomeado | Etapa 1 Finalizada |
-|---|---|---|---|---|---|
-| Americana - SP | David | ✅ | ✅ | ✅ | ✅ |
-| Barbacena - MG | Odair Ferreira | ✅ | ✅ | ✅ | ✅ |
-| Belém - PA | Matheus Cavalcante | ✅ | ✅ | ✅ | ✅ |
-| Boa Vista - RR | Naira Rodrigues | ✅ | ✅ | ✅ | ✅ |
-| Botelhos - MG | Marcus Lima | ✅ | ✅ | ✅ | ✅ |
-| Brasília - DF | Paula Belmonte | ✅ | ✅ | ✅ | ✅ |
-| Campo Grande - MS | Beto Pereira | ✅ | ✅ | ✅ | ✅ |
-| Caruaru - PE | Vitinho Maia | ✅ | ✅ | ✅ | ✅ |
-| Caucaia - CE | Ícaro Bonfim | ✅ | ✅| ✅ | ✅ |
-| Cuiabá - MT | Abilio Moumer | ❌ | ❌ | ❌ | ❌ |
-| Itamaraju - BA | Miguel Xavier | ✅ | ✅ | ✅ | ✅ |
-| Itapema - SC | Adriano Pivotto | ✅ | ✅ | ✅ | ✅ |
-| Maracás - BA | Jamon | ❌ | ❌ | ❌ | ❌ |
-| Natal - RN | Paulo Ovídio | ✅ | ✅ | ✅ | ✅ |
-| Paraíso do Tocantins - TO | Renan Aires | ✅ | ✅ | ✅ | ✅ |
-| Presidente Figueiredo - AM | ? | ✅ | ✅ | ✅ | ✅ |
-| Rio Claro - SP | Andrey Sepulveda | ❌ | ❌ | ❌ | ❌ |
-| São Carlos - SP | Gabriel Mesquita | ✅ | ✅ | ✅ | ✅ |
-| São Paulo - SP | ? | ✅ | ✅ | ✅ | ✅ |
-| Salinas - MG | Arthur Bastos | ✅ | ✅ | ✅ | ✅ |
-| Silvânia - GO | Matheus Brito | ✅ | ✅ | ✅ | ✅ |
-| Vitória da Conquista - BA | Wesley Brito | ✅ | ✅ | ✅ | ✅ |
+| Cidade | Estado | Gabinete | Assessor Responsável | Bairros Catalogados | Mapa Catalogado | Mapa Nomeado | Etapa 1 Finalizada |
+|---|---|---|---|---|---|---|---|
+| Americana | SP |  | David | ✅ | ✅ | ✅ | ✅ |
+| Barbacena | MG |  | Odair Ferreira | ✅ | ✅ | ✅ | ✅ |
+| Belém | PA |  | Matheus Cavalcante | ✅ | ✅ | ✅ | ✅ |
+| Boa Vista | RR |  | Naira Rodrigues | ✅ | ✅ | ✅ | ✅ |
+| Botelhos | MG |  | Marcus Lima | ✅ | ✅ | ✅ | ✅ |
+| Brasília | DF |  | Paula Belmonte | ✅ | ✅ | ✅ | ✅ |
+| Campo Grande | MS |  | Beto Pereira | ✅ | ✅ | ✅ | ✅ |
+| Caruaru | PE |  | Vitinho Maia | ✅ | ✅ | ✅ | ✅ |
+| Caucaia | CE |  | Ícaro Bonfim | ✅ | ✅| ✅ | ✅ |
+| Cuiabá | MT |  | Abilio Moumer | ❌ | ❌ | ❌ | ❌ |
+| Itamaraju | BA |  | Miguel Xavier | ✅ | ✅ | ✅ | ✅ |
+| Itapema | SC |  | Adriano Pivotto | ✅ | ✅ | ✅ | ✅ |
+| Maracás | BA |  | Jamon | ❌ | ❌ | ❌ | ❌ |
+| Natal | RN |  | Paulo Ovídio | ✅ | ✅ | ✅ | ✅ |
+| Paraíso do Tocantins | TO |  | Renan Aires | ✅ | ✅ | ✅ | ✅ |
+| Presidente Figueiredo | AM |  | ? | ✅ | ✅ | ✅ | ✅ |
+| Rio Claro | SP |  | Andrey Sepulveda | ❌ | ❌ | ❌ | ❌ |
+| São Carlos | SP |  | Gabriel Mesquita | ✅ | ✅ | ✅ | ✅ |
+| São Paulo | SP |  | ? | ✅ | ✅ | ✅ | ✅ |
+| Salinas | MG |  | Arthur Bastos | ✅ | ✅ | ✅ | ✅ |
+| Silvânia | GO |  | Matheus Brito | ✅ | ✅ | ✅ | ✅ |
+| Vitória da Conquista | BA |  | Wesley Brito | ✅ | ✅ | ✅ | ✅ |
 
 <br>
 </details>
