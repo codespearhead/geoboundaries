@@ -35,30 +35,30 @@ TODO: Explain [ISO3166-2](https://pt.wikipedia.org/wiki/ISO_3166-2:BR)
 <summary>Click me</summary>
 <br>
 
-| Cidade | Estado | Gabinete | Assessor Responsável | Bairros Catalogados | Mapa Catalogado | Mapa Nomeado | Etapa 1 Finalizada |
-|---|---|---|---|---|---|---|---|
-| Americana | SP |  | David | ✅ | ✅ | ✅ | ✅ |
-| Barbacena | MG |  | Odair Ferreira | ✅ | ✅ | ✅ | ✅ |
-| Belém | PA |  | Matheus Cavalcante | ✅ | ✅ | ✅ | ✅ |
-| Boa Vista | RR |  | Naira Rodrigues | ✅ | ✅ | ✅ | ✅ |
-| Botelhos | MG |  | Marcus Lima | ✅ | ✅ | ✅ | ✅ |
-| Brasília | DF |  | Paula Belmonte | ✅ | ✅ | ✅ | ✅ |
-| Campo Grande | MS |  | Beto Pereira | ✅ | ✅ | ✅ | ✅ |
-| Caruaru | PE |  | Vitinho Maia | ✅ | ✅ | ✅ | ✅ |
-| Caucaia | CE |  | Ícaro Bonfim | ✅ | ✅| ✅ | ✅ |
-| Cuiabá | MT |  | Abilio Moumer | ❌ | ❌ | ❌ | ❌ |
-| Itamaraju | BA |  | Miguel Xavier | ✅ | ✅ | ✅ | ✅ |
-| Itapema | SC |  | Adriano Pivotto | ✅ | ✅ | ✅ | ✅ |
-| Maracás | BA |  | Jamon | ❌ | ❌ | ❌ | ❌ |
-| Natal | RN |  | Paulo Ovídio | ✅ | ✅ | ✅ | ✅ |
-| Paraíso do Tocantins | TO |  | Renan Aires | ✅ | ✅ | ✅ | ✅ |
-| Presidente Figueiredo | AM |  | ? | ✅ | ✅ | ✅ | ✅ |
-| Rio Claro | SP |  | Andrey Sepulveda | ❌ | ❌ | ❌ | ❌ |
-| São Carlos | SP |  | Gabriel Mesquita | ✅ | ✅ | ✅ | ✅ |
-| São Paulo | SP |  | ? | ✅ | ✅ | ✅ | ✅ |
-| Salinas | MG |  | Arthur Bastos | ✅ | ✅ | ✅ | ✅ |
-| Silvânia | GO |  | Matheus Brito | ✅ | ✅ | ✅ | ✅ |
-| Vitória da Conquista | BA |  | Wesley Brito | ✅ | ✅ | ✅ | ✅ |
+| Cidade | Estado | Cargo | Gabinete | Assessor Responsável | Observação |Bairros Catalogados | Mapa Catalogado | Mapa Nomeado | Etapa 1 Finalizada |
+|---|---|---|---|---|---|---|---|---|---|
+| Americana | SP | - | - | David | Jornalista, Ex-assessor parlamentar | ✅ | ✅ | ✅ | ✅ |
+| Barbacena | MG | Vereador | Odair Ferreira | Tamara Bruno | - |✅ | ✅ | ✅ | ✅ |
+| Belém | PA | Vereador | Matheus Cavalcante | O próprio | - | ✅ | ✅ | ✅ | ✅ |
+| Boa Vista | RR | Vereador | Ruan Kenobby | Naira Rodrigues | - | ✅ | ✅ | ✅ | ✅ |
+| Botelhos | MG | Vereador | Marcus Vinicius | O próprio | - | ✅ | ✅ | ✅ | ✅ |
+| Brasília | DF | Deputado Distrital | Paula Belmonte | O próprio | - | ✅ | ✅ | ✅ | ✅ |
+| Campo Grande | MS | Deputado Federal | Beto Pereira | O próprio | - | ✅ | ✅ | ✅ | ✅ |
+| Caruaru | PE | - | - | Vitinho Maia | Candidato a Deputado Federal | ✅ | ✅ | ✅ | ✅ |
+| Caucaia | CE | - | - | Ícaro Bonfim | Ex-assessor parlamentar de Vereador, de Deputado Estadual e de Vice-Prefeito | ✅ | ✅| ✅ | ✅ |
+| Cuiabá | MT | Deputado Federal | Abilio Moumer | O próprio | - | ❌ | ❌ | ❌ | ❌ |
+| Itamaraju | BA | - | - | Miguel Xavier | Liderança de Grupo Político | ✅ | ✅ | ✅ | ✅ |
+| Itapema | SC | Vereador | Adriano Pivotto | Áxion Tridapalli | - | ✅ | ✅ | ✅ | ✅ |
+| Maracás | BA | - | - | Jamon Soares | Afirma trabalhar no setor de Comunicação | ❌ | ❌ | ❌ | ❌ |
+| Natal | RN | - | - | Paulo Ovídio | Candidato a Vereador | ✅ | ✅ | ✅ | ✅ |
+| Paraíso do Tocantins | TO | Deputado Estadual | Nilton Franco | Renan Aires | - | ✅ | ✅ | ✅ | ✅ |
+| Presidente Figueiredo | AM | - | - | Felipe Gonçalves | Assessor do Próprio GdA. Responsável a pedido do Deputado Federal Amom Mandel | ✅ | ✅ | ✅ | ✅ |
+| Rio Claro | SP | Vereador | Carol Gomes | Andrey Sepulveda | - | ❌ | ❌ | ❌ | ❌ |
+| São Carlos | SP | Vereador | Elton Carvalho | Gabriel Mesquita | - | ✅ | ✅ | ✅ | ✅ |
+| São Paulo | SP | Deputado Federal | Tabata Amaral | Felipe Gonçalves | Assessor do Próprio GdA. Responsável a pedido do Deputado Federal Amom Mandel | ✅ | ✅ | ✅ | ✅ |
+| Salinas | MG | Vereador | Arthur Bastos | O próprio | - | ✅ | ✅ | ✅ | ✅ |
+| Silvânia | GO | Vereador | Matheus Brito | O próprio | - | ✅ | ✅ | ✅ | ✅ |
+| Vitória da Conquista | BA | - | - | Wesley Brito | Candidato a Deputado Estadual | ✅ | ✅ | ✅ | ✅ |
 
 <br>
 </details>
