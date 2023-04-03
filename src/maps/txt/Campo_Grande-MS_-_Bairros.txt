@@ -1,5 +1,3 @@
-Caso o "sublocality" do retornado esteja vazio, não seja nenhum dos bairros citados abaixo ou sublocality="nome da cidade em questão", favor tratá-lo como se estivesse na "Sede" para fins estatísticos.
-
 Fonte: https://srcg.com.br/public/leis/lei_complementar_do_plano_diretor_de_campo_grande.pdf (Pág. 31)
 
 - Anhanduí
