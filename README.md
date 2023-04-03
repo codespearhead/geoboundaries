@@ -47,7 +47,7 @@ TODO: Explain [ISO3166-2](https://pt.wikipedia.org/wiki/ISO_3166-2:BR)
 | Caruaru | PE | - | - | Vitinho Maia | Candidato a Deputado Federal | ✅ | ✅ | ✅ | ✅ |
 | Caucaia | CE | - | - | Ícaro Bonfim | Ex-assessor parlamentar de Vereador, de Deputado Estadual e de Vice-Prefeito | ✅ | ✅| ✅ | ✅ |
 | Criciúma | SC | Vereador | Daniel Antunes | Cristyane Limas | - | ❌ | ❌ | ❌ | ❌ |
-| Cuiabá | MT | Deputado Federal | Abilio Moumer | O próprio | - | ❌ | ❌ | ❌ | ❌ |
+| Cuiabá | MT | Deputado Federal | Abilio Moumer | O próprio | - | ✅ | ✅ | ✅ | ✅ |
 | Itamaraju | BA | - | - | Miguel Xavier | Liderança de Grupo Político | ✅ | ✅ | ✅ | ✅ |
 | Itapema | SC | Vereador | Adriano Pivotto | Áxion Tridapalli | - | ✅ | ✅ | ✅ | ✅ |
 | Maracás | BA | - | - | Jamon Soares | Afirma trabalhar no setor de Comunicação | ❌ | ❌ | ❌ | ❌ |
