@@ -39,6 +39,7 @@ TODO: Explain [ISO3166-2](https://pt.wikipedia.org/wiki/ISO_3166-2:BR)
 |---|---|---|---|---|---|---|---|---|---|
 | Americana | SP | - | - | David | Jornalista, Ex-assessor parlamentar | ✅ | ✅ | ✅ | ✅ |
 | Barbacena | MG | Vereador | Odair Ferreira | Tamara Bruno | - |✅ | ✅ | ✅ | ✅ |
+| Bela Vista | MS | Senador | Tereza Cristina | Gabriel Boccia | Atualmente não exerce função pública. É advogado, atual presidente do Rotary Club de Bela Vista. Já foi vice-prefeito (2017-2020), e na última eleição foi candidato a prefeito, a qual por pouco não ganhou. Pretende concorrer a prefeito novamente. | ❌ | ❌ | ❌ | ❌ |
 | Belém | PA | Vereador | Matheus Cavalcante | O próprio | - | ✅ | ✅ | ✅ | ✅ |
 | Boa Vista | RR | Vereador | Ruan Kenobby | Naira Rodrigues | - | ✅ | ✅ | ✅ | ✅ |
 | Botelhos | MG | Vereador | Marcus Vinicius | O próprio | - | ✅ | ✅ | ✅ | ✅ |
