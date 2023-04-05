@@ -1,0 +1,50 @@
+- Distrito Industrial
+- Parque Mãe Preta
+- Bela Vista
+- Jardim Cherveson
+- Jardim Paulista II
+- Boa Esperança
+- Jardim Sigal
+- Campo do Cocho
+- Vila Nova
+- Jardim Inocoop
+- Vila Industrial
+- Parque Universitario
+- Santa Maria
+- Jardim Res. Santa Eliza
+- Jardim Centenário
+- Res. Florenca
+- Jardim Nova Rio Claro
+- Jardim Novo
+- Ajapi
+- Jardim Res. das Palmeiras
+- Jardim Bela Vista
+- Jardim Kennedy
+- Cidade Jardim
+- Jardim Res. Copacabana
+- Vila Santo Antônio
+- Vila Paulista
+- Cidade Nova
+- Jardim Res. Sao Jose
+- Jardim Floridiana
+- Jardim America
+- Arco-Íris
+- Vila Alemã
+- Vila Sao Jose
+- Jardim do Ipe
+- Jardim São Paulo
+- Chácara Bom Retiro
+- Jardim do Trevo
+- Jardim Quitandinha
+- Olímpico
+- Consolação
+- Jardim Shangrila
+- Jardim Rio Claro
+- Jardim Hipodromo
+- Santa Clara
+- Jardim Ipanema
+- Parque das Industrias
+- Jardim Independencia
+- Vila Martins
+- Jardim Azul
+
