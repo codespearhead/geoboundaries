@@ -56,7 +56,7 @@ TODO: Explain [ISO3166-2](https://pt.wikipedia.org/wiki/ISO_3166-2:BR)
 | Natal | RN | - | - | Paulo Ovídio | Candidato a Vereador | ✅ | ✅ | ✅ | ✅ |
 | Paraíso do Tocantins | TO | Deputado Estadual | Nilton Franco | Renan Aires | - | ✅ | ✅ | ✅ | ✅ |
 | Presidente Figueiredo | AM | - | - | Felipe Gonçalves | Assessor do Próprio GdA. Responsável a pedido do Deputado Federal Amom Mandel | ✅ | ✅ | ✅ | ✅ |
-| Rio Claro | SP | Vereador | Carol Gomes | Andrey Sepulveda | - | ❌ | ❌ | ❌ | ❌ |
+| Rio Claro | SP | Vereador | Carol Gomes | Andrey Sepulveda | - | ✅ | ✅ | ✅ | ✅ |
 | São Carlos | SP | Vereador | Elton Carvalho | Gabriel Mesquita | - | ✅ | ✅ | ✅ | ✅ |
 | São Paulo | SP | Deputado Federal | Tabata Amaral | Felipe Gonçalves | Assessor do Próprio GdA. Responsável a pedido do Deputado Federal Amom Mandel | ✅ | ✅ | ✅ | ✅ |
 | Salinas | MG | Vereador | Arthur Bastos | O próprio | - | ✅ | ✅ | ✅ | ✅ |
