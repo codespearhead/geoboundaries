@@ -13,9 +13,9 @@ def inkscape_svg_to_plain_svg(path_to_svg, path_to_output):
 
 
 def main(path_to_input_folder, path_to_output_folder):
+    files = listdir(path_to_input_folder)
     if not exists(path_to_output_folder):
         makedirs(path_to_output_folder)
-    files = listdir(path_to_input_folder)
     for file in files:
         inkscape_svg_to_plain_svg(
             join(path_to_input_folder, file),
