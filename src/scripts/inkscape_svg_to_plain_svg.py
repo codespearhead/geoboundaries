@@ -23,4 +23,4 @@ def main(path_to_input_folder, path_to_output_folder):
         )
 
 
-main("src/maps/svg", "src/maps/raw_svg")
+main("src/maps/2", "src/maps/svg")

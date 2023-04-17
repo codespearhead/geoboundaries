@@ -24,6 +24,7 @@ def rename(path_to_svg,
 	xmlDoc = xmlParser.parse(path_to_svg)
 	rootElement = xmlDoc.getroot()
 	for i, child in enumerate(rootElement):
+		child.attrib.pop('style')
 		label = child.attrib.get(labelName, None)
 		id = child.attrib.get("id", None)
 		if (id is not None) and (label is not None):
@@ -45,4 +46,4 @@ def main(path_to_input_folder, path_to_output_folder):
 			join(path_to_output_folder, file)
 		)
 
-main("src/maps/raw_svg", "src/maps/svg")
+main("src/maps/2", "src/maps/svg")

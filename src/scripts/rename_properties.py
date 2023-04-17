@@ -26,12 +26,16 @@ def rename(path_to_svg,
 	xmlDoc = xmlParser.parse(path_to_svg)
 	rootElement = xmlDoc.getroot()
 	for i, child in enumerate(rootElement):
+		
 		current_tag_value = child.attrib.get(current_tag_name, None)
-		if (current_tag_value is not None and child.tag == "{http://www.w3.org/2000/svg}path"):
+
+		if (child.attrib.get("style", None)):
+			child.attrib.pop("style")
+
+		if (current_tag_value is not None and child.tag == "path"):
 			child.attrib[new_tag_name] = current_tag_value
 			child.attrib.pop(current_tag_name)
 
-			child.attrib.pop('style')
 			child.attrib['class'] = 'neighborhood'
 		reorder_attributes(child)
 		
@@ -51,4 +55,4 @@ def main(path_to_input_folder, path_to_output_folder):
 		)
 
 
-main("src/maps/svg", "src/maps/raw_svg")
+main("src/maps/1", "src/maps/2")
