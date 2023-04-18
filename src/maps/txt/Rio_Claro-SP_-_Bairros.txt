@@ -1,66 +1,77 @@
+- Ajapi
+- Boa Vista
+- Boa Esperança
 - Distrito Industrial
 - Parque Mãe Preta
-- Bela Vista
-- Jardim Cherveson
-- Jardim Paulista II
-- Boa Esperança
-- Jardim Sigal
-- Campo do Cocho
-- Vila Nova
-- Jardim Inocoop
 - Vila Industrial
-- Parque Universitario
-- Santa Maria
-- Jardim Res. Santa Eliza
-- Jardim Centenário
-- Res. Florenca
-- Jardim Nova Rio Claro
-- Jardim Novo
-- Ajapi
-- Jardim Res. das Palmeiras
-- Jardim Bela Vista
-- Jardim Kennedy
-- Cidade Jardim
-- Jardim Res. Copacabana
-- Vila Santo Antônio
-- Vila Paulista
-- Cidade Nova
-- Jardim Res. Sao Jose
+- Arco-Íris
 - Jardim Floridiana
 - Jardim America
-- Arco-Íris
-- Vila Alemã
-- Vila Sao Jose
-- Jardim do Ipe
-- Jardim São Paulo
-- Chácara Bom Retiro
-- Jardim do Trevo
-- Jardim Quitandinha
-- Olímpico
-- Consolação
-- Jardim Shangrila
-- Jardim Rio Claro
-- Jardim Hipodromo
 - Santa Clara
+- Jardim Hipodromo
+- Jardim Res. Sao Jose
+- Santa Maria
+- Recanto Paraíso
+- Jardim Panorama
+- Jardim das Paineiras
 - Jardim Ipanema
 - Parque das Industrias
-- Jardim Independencia
-- Vila Martins
 - Jardim Azul
-- Alto do Santana
-- Jardim Olinda
+- Jardim Independencia
+- Jardim Cherveson
 - Jardim Cidade Azul
-- Vila Bnh
-- Vila Santa Terezinha
-- Vila Operaria
-- Jardim Portugal
-- Vila Saibreiro
-- Jardim Primavera
-- Vila Aparecida
-- Centro
-- Santana
+- Jardim Olinda
+- Parque Universitario
+- Jardim Paulista II
+- Jardim Res. Santa Eliza
+- Jardim Matheus Maniero
+- Jardim Sigal
+- Novo Jardim Wenzel
+- Res. Florenca
+- Campo do Cocho
+- Jardim Nova Rio Claro
+- Jardim Novo
+- Jardim Vila Bela
+- Bela Vista
+- Vila Nova
+- Jardim Res. das Palmeiras
+- Jardim Centenário
+- Jardim Inocoop
+- Vila Romana
+- Jardim Guanabara
+- Jardim Brasília II
+- Jardim do Horto
+- Jardim Res. Copacabana
+- Jardim Kennedy
+- Cidade Jardim
+- Vila Santo Antônio
+- Vila Paulista
 - Saude
 - Jardim Donangela
 - Boa Morte
 - Estádio
-- Jardim Vila Bela
+- Consolação
+- Olímpico
+- Jardim Quitandinha
+- Jardim do Trevo
+- Jardim Anhanguera
+- Cidade Nova
+- Centro
+- Santana
+- Vila Santa Terezinha
+- Vila Bnh
+- Jardim Bela Vista
+- Chácara Bom Retiro
+- Jardim São Paulo
+- Jardim Shangrila
+- Jardim Rio Claro
+- Vila Sao Jose
+- Jardim do Ipe
+- Vila Martins
+- Alto do Santana
+- Jardim Portugal
+- Jardim Primavera
+- Vila Saibreiro
+- Vila Alemã
+- Vila Aparecida
+- Vila Operaria
