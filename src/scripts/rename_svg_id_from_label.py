@@ -24,7 +24,10 @@ def rename(path_to_svg,
 	xmlDoc = xmlParser.parse(path_to_svg)
 	rootElement = xmlDoc.getroot()
 	for i, child in enumerate(rootElement):
-		child.attrib.pop('style')
+
+		if (child.attrib.get("style", None)):
+			child.attrib.pop("style")
+
 		label = child.attrib.get(labelName, None)
 		id = child.attrib.get("id", None)
 		if (id is not None) and (label is not None):
