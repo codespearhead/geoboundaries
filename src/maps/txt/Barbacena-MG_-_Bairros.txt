@@ -1,4 +1,3 @@
-- Sede
 - Ponto Chique do Martelo
 - Padre Brito
 - Faria
@@ -11,3 +10,48 @@
 - Senhora das Dores
 - Pinheiro Grosso
 - Galego
+
+- Sede
+Andaraí
+Agua Santa
+Boa Morte
+Boa Vista
+Belvedere
+Bom Pastor
+Centro
+Caicaras
+Caminho Novo
+Diniz II
+Eucisa
+Funcionários
+Floresta
+Fatima
+Grogotó
+Guarani
+Ibiapaba
+Ipanema
+João Paulo II
+Jardim
+Jardim das Alterosas
+Monte Mario
+Monsenhor Mario Quintao
+Marino Ceolin
+Mansões
+Nova Cidade
+Nova Suíça
+Nossa Senhora Aparecida
+Novo Horizonte
+Nove de Marco
+Pontilhão
+Passarinhos
+Padre Cunha
+Retiro das Rosas
+Santa Tereza I
+Santo Antonio
+São José
+Santa Efigenia
+Santa Cecilia
+São Pedro
+Vista Alegre
+Vilela
+Vale das Rosas
