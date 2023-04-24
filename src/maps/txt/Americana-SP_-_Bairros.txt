@@ -61,7 +61,7 @@ Parque Resid. Tancredi
 Residencial Bosque dos Ipês
 Jardim Florbela
 Chácara Machado
-Olho D' Água
+Olho D'Água
 Camargo
 Fazenda Santa Lucia
 Jardim Santa Lucia
@@ -112,7 +112,7 @@ Jardim Sao Vito
 São Vito
 Jardim Santa Sofia
 Vila Bertini
-Jardim Ind. Pref. Cid. Azevedo Marques 	 
+Jardim Ind. Pref. Cid. Azevedo Marques
 
 - AP5: Região São Luiz
 
@@ -125,16 +125,8 @@ Vila Santa Monica
 Vila Sant' Ângelo
 Vila Sobral
 Jardim Portal da Colina
-Col. W. Plass I
-Col. W. Plass II
-Col. W. Plass III
-Col. W. Plass IV
-Col. W. Plass V
-Col. W. Plass VI
-Col. W. Plass VII
 Bosque da Saúde
 Werner Plaas
-Lot. Ind. Jardim Werner Plass
 Loteamento Industrial Machadinho
 Jardim Recanto
 Chácara Machadinho
@@ -142,7 +134,6 @@ Fazenda Machadinho
 Maria Crivellone Abrão
 Nossa Senhora de Fatima
 Loteamento Industrial Nossa Senhora de Fatima
-Jardim Boer I
 Jardim Nossa Senhora de Fátima
 Jardim Trípoli
 Vila Israel
@@ -155,11 +146,10 @@ Vila Belvedere
 Jardim Luciani
 Jardim Helena
 Residencial Boa Vista
-Resid. Lindarma
 São Luiz
 Jardim Bertoni
-Jardim Bôer I
-Jardim Bôer II
+Jardim Boer I
+Jardim Boer II
 Jardim Mirandola
 Jardim Esperança
 Sítio Boa Vista
@@ -184,7 +174,7 @@ Jardim Orquídeas
 Jardim Dona Rosa
 Jardim Mario Covas I
 Jardim Mario Covas II
-Jardim Mario Covas III 	 
+Jardim Mario Covas III
 
 - AP7: Região São Domingos / Amorim
 
@@ -231,9 +221,6 @@ Parque Residencial Nardini
 Vila Cechino
 Vila De Nadai
 Vila Frezzarin
-Vila Frezzarin II
-Vila Frezzarin III
-Vila Frezzarin IV
 Vila Pântano
 Vila Paraíso
 Santo Antonio
@@ -253,7 +240,7 @@ Jardim São Pedro
 Jardim Melinski
 Vila Biasi
 Vila dos Gallos
-Vila Elvira 	
+Vila Elvira
 Vila Gallo
 Vila Grassi
 Vila Nova Americana
@@ -265,7 +252,6 @@ Vila Santa Julia
 - AP10: Região São Domingos / Amorim
 
 Cachoeira
-Cidade Jardim
 Fazenda Cillos
 Fazenda Jacyra
 Filipada
@@ -282,8 +268,6 @@ Jardim Terramérica III
 Jardim Thelja
 Parque Novo Mundo
 Parque Universitario
-Resid. Nilsen Ville
-Resid. Ed. Jacyra
 Vila Mathiesen
 Vila Vitória
 Jardim Nielsen Ville
