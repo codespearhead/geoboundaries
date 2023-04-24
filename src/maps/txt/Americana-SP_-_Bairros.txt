@@ -19,12 +19,14 @@ Lot. Ind. Dist. Pref. Abdo Najar I
 Lot. Ind. Dist. Pref. Abdo Najar II
 Fazenda Salto Grande
 Fazendinha
-Salto Grande
-Antônio Zanaga I
+Loteamento Industrial Salto Grande I
+Loteamento Industrial Salto Grande II
+Antonio Zanaga
+Antonio Zanaga I
 Antônio Zanaga II
 Jardim Nossa Senhora Aparecida
 Jardim Vila Bela
-Vale das Nogueiras
+Residencial Vale das Nogueiras
 Jardim Brasil
 Jardim Santa Eliza
 Barroca
@@ -36,6 +38,7 @@ Chácara São Francisco
 Chácaras Alto da Represa
 Chácara Mantovani
 Chácara Lucília
+Iate Clube de Americana
 Iate Clube Americana
 Jardim Philipson Park
 Jardim Villagio I
@@ -52,19 +55,20 @@ Riviera Tamborlim
 - AP3: Região Praia Azul
 
 Berinjela
-Jardim Iate Clube de Campinas
+Iate Clube Campinas
+Iate Clube de Campinas
 Parque Resid. Tancredi
 Residencial Bosque dos Ipês
 Jardim Florbela
 Chácara Machado
 Olho D' Água
 Camargo
-Fazenda Santa Lúcia
+Fazenda Santa Lucia
 Jardim Santa Lucia
 Jardim Barra do Cisne I
-Balneário Riviera
-Balneário Salto Grande
-L.M.F. Jorge–Monte Carlo
+Balneario Riviera
+Balneario Salto Grande
+Monte Carlo
 Jardim do Lago
 Jardim Da Mata
 Parque Dom Pedro II
@@ -104,12 +108,10 @@ Chácara Bertini
 Vila Najar
 Vila Nura
 Vila São Vito
-Jardim São Vito
+Jardim Sao Vito
 São Vito
 Jardim Santa Sofia
-Vila Bertini I
-Vila Bertini II
-Vila Bertini III
+Vila Bertini
 Jardim Ind. Pref. Cid. Azevedo Marques 	 
 
 - AP5: Região São Luiz
@@ -131,27 +133,28 @@ Col. W. Plass V
 Col. W. Plass VI
 Col. W. Plass VII
 Bosque da Saúde
+Werner Plaas
 Lot. Ind. Jardim Werner Plass
-Parque Ind. Machadinho
+Loteamento Industrial Machadinho
 Jardim Recanto
 Chácara Machadinho
 Fazenda Machadinho
-Ind. M C Abrão
-Ind. N Senhora De Fátima
-Industrial Sigisfredo Boer
+Maria Crivellone Abrão
+Nossa Senhora de Fatima
+Loteamento Industrial Nossa Senhora de Fatima
+Jardim Boer I
 Jardim Nossa Senhora de Fátima
 Jardim Trípoli
 Vila Israel
 Vila Branca
-Campo Limpo I
-Campo Limpo II
-Chácara Sta. Cruz
-Jardim Progresso
+Campo Limpo
+Santa Cruz
+Loteamento Jardim Progresso
 Jardim Santarosa
 Vila Belvedere
 Jardim Luciani
 Jardim Helena
-Parque Resid. Boa Vista
+Residencial Boa Vista
 Resid. Lindarma
 São Luiz
 Jardim Bertoni
@@ -171,10 +174,10 @@ Jardim São Roque
 Parque Gramado
 Parque Resid. São Jerônimo
 São Jerônimo
-Jardim da Paz
+Jardim da paz
 Parque da Liberdade
 Morada do Sol
-Parque das Nações
+Parque das Nacoes
 Jardim da Balsa I
 Jardim da Balsa II
 Jardim Orquídeas
@@ -223,10 +226,7 @@ Jardim Mollon
 Jardim Novo Girassol
 Jardim Paulista
 Jardim Planalto
-Jardim São Paulo
-Jardim São Paulo II
-Jardim São Paulo III
-Jardim São Paulo IV
+Jardim Sao Paulo
 Parque Residencial Nardini
 Vila Cechino
 Vila De Nadai
@@ -236,18 +236,19 @@ Vila Frezzarin III
 Vila Frezzarin IV
 Vila Pântano
 Vila Paraíso
-Vila Santo Antônio
+Santo Antonio
 Vila Molon
 Vila San Pietro
 Vila Tônica
 
 - AP9: Região Nova Americana / Santa Catarina
 
+Brieds
 Cidade Jardim
 Conserva
 Jardim Briedis
 Jardim Maria Cristina
-Jardim Nova Americana
+Nova Americana
 Jardim São Pedro
 Jardim Melinski
 Vila Biasi
@@ -257,9 +258,7 @@ Vila Gallo
 Vila Grassi
 Vila Nova Americana
 Vila Rasmussen
-Vila Santa Catarina I
-Vila Santa Catarina II
-Vila Santa Catarina III
+Vila Santa Catarina
 Vila São Pedro
 Vila Santa Julia
 
@@ -282,11 +281,12 @@ Jardim Terramérica II
 Jardim Terramérica III
 Jardim Thelja
 Parque Novo Mundo
-Parque Universitário
+Parque Universitario
 Resid. Nilsen Ville
 Resid. Ed. Jacyra
-Vila Mathiensen
+Vila Mathiesen
 Vila Vitória
+Jardim Nielsen Ville
 
 - Zona Rural
 
