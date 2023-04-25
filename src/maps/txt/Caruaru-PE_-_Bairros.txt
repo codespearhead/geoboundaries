@@ -2,28 +2,40 @@ Descrição: Caso o "sublocality" do retornado esteja vazio, não seja nenhum do
 
 - Rendeiras
 - Caiuca
-- Indianópolis
 - Nova Caruaru
-- Boa Vista
-- Petropolis
+- Petrópolis
 - Cidade Alta
-- Salgado
 - Nossa Senhora das Dores
 - Santa Rosa
 - Universitário
 - Maurício de Nassau
 - Vassoural
-- Divinopolis
+- Divinópolis
 - Cedro
 - João Mota
 - Centenário
 - São Francisco
 - Morro do Bom Jesus
-- Riacho
+- Riachão
 - Kennedy
 - Alto do Moura
 - Agamenon Magalhães
 - Lajedo do Cedro
 - Gonçalves Ferreira
 - Carapotós
+- Jardim Panorama
+
+- Jardim Boa Vista
+Maria Auxiliadora
+Padre Inacio
+
+- Salgado
+São João da Escócia
+Luiz Gonzaga
+
+- Indianópolis
+Dep. Jose Antonio Liberato
+
 - Zona Rural
+Terra Vermelha
+José Carlos de Oliveira
