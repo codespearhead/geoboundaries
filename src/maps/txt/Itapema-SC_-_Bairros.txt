@@ -4,12 +4,14 @@ Descrição: Caso o "sublocality" do retornado esteja vazio, não seja nenhum do
 - Sertãozinho
 - Alto São Bento
 - Casa Branca
-- Várzea
+- Varzea
 - Tabuleiro dos Oliveiras
 - Morretes
-- Jardim Praiamar
+- Jardim Praia Mar
 - Centro
 - Canto da Praia
 - Ilhota
 - Sertão do Trombudo
 - Zona Rural
+- Andorinha
+- Castelo Branco
