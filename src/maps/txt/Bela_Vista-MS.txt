@@ -1,0 +1,53 @@
+- Zona Urbana
+
+Antonio João
+Água Doce
+Costa e Silva
+Centro
+Centro I
+Centro II
+Centro III
+Espírito Santo
+Nova Bela Vista
+Primavera
+Planalto
+Serradinho
+
+- Zona Rural
+
+Água Rica
+Água Azul
+Amaro
+Andarico
+Bela Vista
+Boa Vista
+Bonfim
+Bacajá
+Barra do Itá
+Caracol
+Costa Rica
+Caleiras - Nossa Senhora de Fátima
+Colônia Municipal Bela Vista
+Fazenda Nova
+Godofredo
+Independência
+Ihum
+Margarida
+Machorra
+Monjolinho
+Nunca-te-vi
+Nossa Senhora de Fátima
+Victoria - Nossa Senhora de Fátima
+Ouro Branco
+Órion
+Riconada
+Retiro São Tomás
+Retiro dos Velhos
+Santa Rosa
+Santa Rita
+Salobra
+Santa Elisa
+São Luis
+Touro Morto
+Tapera
+Tibi
