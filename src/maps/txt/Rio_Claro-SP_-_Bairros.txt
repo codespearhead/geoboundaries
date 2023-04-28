@@ -1,9 +1,24 @@
+Fonte: https://app.buracometro.com/estatisticas
+
+-> Zona Sul
+- Campo do Cocho
+- Jardim Nova Rio Claro
+- Jardim Novo
+
+-> Zona Leste
 - Ajapi
-- Boa Vista
-- Boa Esperança
 - Distrito Industrial
+
+-> Zona Oeste
+- Jardim Sigal
+- Novo Jardim Wenzel
+
+-> Zona Norte
+- Boa Esperança
+
+-> Zona Central
+- Boa Vista
 - Parque Mãe Preta
-- Vila Industrial
 - Arco-Íris
 - Jardim Floridiana
 - Jardim America
@@ -25,12 +40,8 @@
 - Jardim Paulista II
 - Jardim Res. Santa Eliza
 - Jardim Matheus Maniero
-- Jardim Sigal
-- Novo Jardim Wenzel
+- Vila Industrial
 - Res. Florenca
-- Campo do Cocho
-- Jardim Nova Rio Claro
-- Jardim Novo
 - Jardim Vila Bela
 - Bela Vista
 - Vila Nova
