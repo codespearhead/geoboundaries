@@ -70,10 +70,8 @@ Fonte: https://app.buracometro.com/estatisticas
 - Centro
 - Santana
 - Vila Santa Terezinha
-- Vila Bnh
 - Jardim Bela Vista
 - Chácara Bom Retiro
-- Jardim São Paulo
 - Jardim Shangrila
 - Jardim Rio Claro
 - Vila Sao Jose
@@ -86,3 +84,9 @@ Fonte: https://app.buracometro.com/estatisticas
 - Vila Alemã
 - Vila Aparecida
 - Vila Operaria
+
+- Jardim São Paulo
+Cidade Claret
+
+- Vila Bnh
+Vila Elizabeth (Bnh)
