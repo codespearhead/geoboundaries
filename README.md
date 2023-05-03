@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://github.com/Paguiar735/geoboundaries">Geoboundaries</a></h1>
+<h1 align="center"><a href="https://github.com/codespearhead/geoboundaries">Geoboundaries</a></h1>
 
 <p align="center">
     <br>
