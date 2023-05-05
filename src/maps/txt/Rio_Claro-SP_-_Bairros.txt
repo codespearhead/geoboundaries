@@ -1,31 +1,40 @@
 Fonte: https://app.buracometro.com/estatisticas
 
+
 -> Zona Sul
 - Campo do Cocho
 - Jardim Nova Rio Claro
+
 - Jardim Novo
+Park Palmeira
+
 
 -> Zona Leste
-- Ajapi
 - Distrito Industrial
+
+- Ajapi
+República - Ajapi
+
 
 -> Zona Oeste
 - Jardim Sigal
+
 - Novo Jardim Wenzel
+Wenzel
+
 
 -> Zona Norte
 - Boa Esperança
+Bicudos
+
 
 -> Zona Central
 - Boa Vista
-- Parque Mãe Preta
 - Arco-Íris
 - Jardim Floridiana
 - Jardim America
 - Santa Clara
 - Jardim Hipodromo
-- Jardim Res. Sao Jose
-- Santa Maria
 - Recanto Paraíso
 - Jardim Panorama
 - Jardim das Paineiras
@@ -33,31 +42,21 @@ Fonte: https://app.buracometro.com/estatisticas
 - Parque das Industrias
 - Jardim Azul
 - Jardim Independencia
-- Jardim Cherveson
 - Jardim Cidade Azul
 - Jardim Olinda
 - Parque Universitario
 - Jardim Paulista II
-- Jardim Res. Santa Eliza
-- Jardim Matheus Maniero
 - Vila Industrial
-- Res. Florenca
 - Jardim Vila Bela
-- Bela Vista
 - Vila Nova
-- Jardim Res. das Palmeiras
-- Jardim Centenário
-- Jardim Inocoop
 - Vila Romana
 - Jardim Guanabara
 - Jardim Brasília II
 - Jardim do Horto
 - Jardim Res. Copacabana
-- Jardim Kennedy
 - Cidade Jardim
 - Vila Santo Antônio
 - Vila Paulista
-- Saude
 - Jardim Donangela
 - Boa Morte
 - Estádio
@@ -67,8 +66,8 @@ Fonte: https://app.buracometro.com/estatisticas
 - Jardim do Trevo
 - Jardim Anhanguera
 - Cidade Nova
+- Santa Cruz
 - Centro
-- Santana
 - Vila Santa Terezinha
 - Jardim Bela Vista
 - Chácara Bom Retiro
@@ -85,7 +84,50 @@ Fonte: https://app.buracometro.com/estatisticas
 - Vila Aparecida
 - Vila Operaria
 
+- Bela Vista
+Vila Indaia
+
+- Jardim Centenário
+Residencial Benjamim de Castro
+Residencial dos Bosques
+
+- Santa Maria
+Residencial Bosques de Rio Claro
+
+- Jardim Res. Sao Jose
+Parque Sao Jorge
+
+- Jardim Kennedy
+Jardim Itapuã
+
+- Jardim Cherveson
+Grande Cervezão
+
+- Jardim Res. das Palmeiras
+Diário Ville
+
+- Res. Florenca
+Residencial Florenca
+
+- Saude
+Bairro da Saude
+
+- Santana
+Bairro Santana
+
+- Parque Mãe Preta
+Mãe Preta
+
+- Jardim Inocoop
+Inocoop
+Chácara Lusa
+
+- Jardim Santa Eliza
+Jardim Res. Santa Eliza
+Jardim Matheus Maniero
+
 - Jardim São Paulo
+Jardim Sao Paulo
 Cidade Claret
 
 - Vila Bnh
