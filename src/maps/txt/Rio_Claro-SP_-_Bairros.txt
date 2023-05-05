@@ -1,12 +1,14 @@
 Fonte: https://app.buracometro.com/estatisticas
 
 
+
 -> Zona Sul
 - Campo do Cocho
 - Jardim Nova Rio Claro
 
 - Jardim Novo
 Park Palmeira
+
 
 
 -> Zona Leste
@@ -16,6 +18,7 @@ Park Palmeira
 República - Ajapi
 
 
+
 -> Zona Oeste
 - Jardim Sigal
 
@@ -23,104 +26,111 @@ República - Ajapi
 Wenzel
 
 
+
 -> Zona Norte
 - Boa Esperança
 Bicudos
 
 
+
 -> Zona Central
-- Boa Vista
-- Arco-Íris
-- Jardim Floridiana
-- Jardim America
-- Santa Clara
-- Jardim Hipodromo
-- Recanto Paraíso
-- Jardim Panorama
-- Jardim das Paineiras
-- Jardim Ipanema
-- Parque das Industrias
-- Jardim Azul
-- Jardim Independencia
-- Jardim Cidade Azul
-- Jardim Olinda
-- Parque Universitario
-- Jardim Paulista II
-- Vila Industrial
-- Jardim Vila Bela
-- Vila Nova
-- Vila Romana
-- Jardim Guanabara
-- Jardim Brasília II
-- Jardim do Horto
-- Jardim Res. Copacabana
-- Cidade Jardim
-- Vila Santo Antônio
-- Vila Paulista
-- Jardim Donangela
-- Boa Morte
-- Estádio
-- Consolação
-- Olímpico
-- Jardim Quitandinha
-- Jardim do Trevo
-- Jardim Anhanguera
-- Cidade Nova
-- Santa Cruz
-- Centro
-- Vila Santa Terezinha
-- Jardim Bela Vista
-- Chácara Bom Retiro
-- Jardim Shangrila
-- Jardim Rio Claro
-- Vila Sao Jose
-- Jardim do Ipe
-- Vila Martins
 - Alto do Santana
+- Arco-Íris
+- Boa Morte
+- Boa Vista
+- Centro
+- Chácara Bom Retiro
+- Cidade Jardim
+- Cidade Nova
+- Consolação
+- Estádio
+- Jardim America
+- Jardim Anhanguera
+- Jardim Azul
+- Jardim Bela Vista
+- Jardim Brasília II
+- Jardim Cidade Azul
+- Jardim Donangela
+- Jardim Floridiana
+- Jardim Guanabara
+- Jardim Hipodromo
+- Jardim Independencia
+- Jardim Ipanema
+- Jardim Olinda
+- Jardim Panorama
+- Jardim Paulista II
 - Jardim Portugal
 - Jardim Primavera
-- Vila Saibreiro
+- Jardim Quitandinha
+- Jardim Res. Copacabana
+- Jardim Rio Claro
+- Jardim Shangrila
+- Jardim Vila Bela
+- Jardim das Paineiras
+- Jardim do Horto
+- Jardim do Ipe
+- Jardim do Trevo
+- Olímpico
+- Parque Universitario
+- Parque das Industrias
+- Recanto Paraíso
+- Santa Clara
+- Santa Cruz
 - Vila Alemã
 - Vila Aparecida
+- Vila Industrial
+- Vila Martins
+- Vila Nova
 - Vila Operaria
+- Vila Paulista
+- Vila Romana
+- Vila Saibreiro
+- Vila Santa Terezinha
+- Vila Santo Antônio
 
 - Bela Vista
 Vila Indaia
+
+- Parque Mãe Preta
+Mãe Preta
+
+- Res. Florenca
+Residencial Florenca
+
+- Santa Maria
+Residencial Bosques de Rio Claro
+
+- Santana
+Bairro Santana
+
+- Saude
+Bairro da Saude
+
+- Vila Bnh
+Vila Elizabeth (Bnh)
+
+- Vila São José
+Vila Sao Jose
 
 - Jardim Centenário
 Residencial Benjamim de Castro
 Residencial dos Bosques
 
-- Santa Maria
-Residencial Bosques de Rio Claro
-
-- Jardim Res. Sao Jose
-Parque Sao Jorge
-
-- Jardim Kennedy
-Jardim Itapuã
-
 - Jardim Cherveson
 Grande Cervezão
-
-- Jardim Res. das Palmeiras
-Diário Ville
-
-- Res. Florenca
-Residencial Florenca
-
-- Saude
-Bairro da Saude
-
-- Santana
-Bairro Santana
-
-- Parque Mãe Preta
-Mãe Preta
 
 - Jardim Inocoop
 Inocoop
 Chácara Lusa
+
+- Jardim Kennedy
+Jardim Itapuã
+
+- Jardim Res. Sao Jose
+Parque Sao Jorge
+
+- Jardim Res. das Palmeiras
+Diário Ville
 
 - Jardim Santa Eliza
 Jardim Res. Santa Eliza
@@ -129,6 +139,3 @@ Jardim Matheus Maniero
 - Jardim São Paulo
 Jardim Sao Paulo
 Cidade Claret
-
-- Vila Bnh
-Vila Elizabeth (Bnh)
