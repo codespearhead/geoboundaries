@@ -8,6 +8,7 @@ Fonte: https://app.buracometro.com/estatisticas
 
 - Jardim Novo
 Park Palmeira
+Jardim Novo II
 
 
 
@@ -58,7 +59,6 @@ Bicudos
 - Jardim Ipanema
 - Jardim Olinda
 - Jardim Panorama
-- Jardim Paulista II
 - Jardim Portugal
 - Jardim Primavera
 - Jardim Quitandinha
@@ -82,7 +82,6 @@ Bicudos
 - Vila Martins
 - Vila Nova
 - Vila Operaria
-- Vila Paulista
 - Vila Romana
 - Vila Saibreiro
 - Vila Santa Terezinha
@@ -90,6 +89,7 @@ Bicudos
 
 - Bela Vista
 Vila Indaia
+Floridiana
 
 - Parque Mãe Preta
 Mãe Preta
@@ -122,12 +122,15 @@ Grande Cervezão
 - Jardim Inocoop
 Inocoop
 Chácara Lusa
+Jardim Novo Horizonte
 
 - Jardim Kennedy
 Jardim Itapuã
 
-- Jardim Res. Sao Jose
+- Jardim Res. São José
+Jardim Res. Sao Jose
 Parque Sao Jorge
+Parque São Jorge
 
 - Jardim Res. das Palmeiras
 Diário Ville
@@ -139,3 +142,10 @@ Jardim Matheus Maniero
 - Jardim São Paulo
 Jardim Sao Paulo
 Cidade Claret
+Jardim Mirassol
+
+- Vila Paulista
+Jardim Condutta
+
+- Jardim Paulista II
+Jardim Figueira
