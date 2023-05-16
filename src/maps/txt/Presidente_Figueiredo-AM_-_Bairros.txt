@@ -9,5 +9,25 @@ Descrição: Caso o "sublocality" do retornado esteja vazio, não seja nenhum do
 - José Dutra
 - Sol Nascente
 - Orquídeas
-- Marunga
-- Zona Rural
+
+-> Maruaga
+Marunga
+
+-> Zona Rural
+Atroari
+Waimiri
+Urubuí
+Antônio Filinto
+Balbina
+Cachoeirinha
+Monte Sagrado
+Presidente Figueiredo
+Pitinga
+Paraíso
+Rio Negro
+Rivas
+Sítio São Raimundo
+Sítio Dois Irmãos
+Sítio Boa Esperanca
+Sítio Boa Vista
+Sítio Manoel J. de Souza
