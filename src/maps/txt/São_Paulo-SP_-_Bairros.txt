@@ -1,3 +1,5 @@
+# Bairros no mapa (camadas no SVG)
+
 - Campo Belo
 - Campo Grande
 - Cidade Ademar
@@ -93,3 +95,160 @@
 - Ponte Rasa
 - Vila Matilde
 - Capão Redondo
+
+# Zonas da Cidade
+
+http://www.mapas-sp.com/bairros.htm
+
+-> Zona Central
+-> Zona Norte
+-> Zona Leste
+-> Zona Sul
+-> Zona Oeste
+
+# Subbairros que devem ser associados às camadas do SVG
+
+Aclimação
+Alto de Pinheiros
+Americanópolis
+Anhanguera
+Aricanduva
+Artur Alvim
+Bairro de Pinheiros
+Barra Funda
+Bela Vista
+Belém
+Bom Retiro
+Brasilândia
+Brás
+Butantã
+Cachoeirinha
+Cambuci
+Campo Limpo
+Cangaíba
+Capão Redondo
+Carrão
+Casa Verde
+Chácara Klabin
+Cidade Dutra
+Cidade Líder
+Cidade Nova Heliópolis
+Cidade Tiradentes
+Consolação
+Cursino
+Eldorado
+Emburá
+Engenheiro Goulart
+Ermelino Matarazzo
+Estância Jaraguá
+Fazenda Morumbi
+Fazenda da Juta
+Ferreira
+Freguesia do Ó
+Furnas
+Gleba do Pêssego
+Grajaú
+Granja Julieta
+Guaianases
+Guarapiranga
+Heliópolis
+Higienópolis
+Horto
+Horto Florestal
+Ibirapuera
+Iguatemi
+Interlagos
+Ipiranga
+Itaim Bibi
+Itaim Paulista
+Itaquera
+Jaguara
+Jaguaré
+Jaraguá
+Jardim Angela (Zona Sul)
+Jardim Brasil (Zona Norte)
+Jardim D'abril
+Jardim Helena
+Jardim Herplin
+Jardim Paulista
+Jardim Paulista
+Jardim São Luís
+Jardim Ângela
+Jardins
+Jaçanã
+José Bonifácio
+Lajeado
+Lapa
+Lauzane Paulista
+Liberdade
+Limoeiro
+Limão
+Luz
+M'Boi Mirim
+Mandaqui
+Marsilac
+Moema
+Mooca
+Morumbi
+Nossa Senhora do O
+Nova Piraju
+Núcleo do Engordador
+Pacaembu
+Parelheiros
+Pari
+Parque Novo Mundo
+Parque do Carmo
+Penha
+Perdizes
+Perus
+Pinheiros
+Pirituba
+Ponte Rasa
+Quarta Parada
+Quinta da Paineira
+Raposo Tavares
+Real Parque
+Recanto Campo Belo
+República
+Rio Pequeno
+Riviera Paulista
+Sacomã
+Santa Cecília
+Santa Ifigênia
+Santana
+Sapopemba
+Socorro
+Sumaré
+São Domingos
+São Lucas
+São Mateus
+São Miguel Paulista
+São Rafael
+Sé
+Tatuapé
+Terceira Divisão de Interlagos
+Tremembé
+Tres Cruzes
+Tucuruvi
+Umarizal
+União Vila Nova
+Usina Piratininga
+Vila Curuçá
+Vila Formosa
+Vila Guilherme
+Vila Jacuí
+Vila Leopoldina
+Vila Madalena
+Vila Maria
+Vila Mariana
+Vila Matilde
+Vila Medeiros
+Vila Nhocuné
+Vila Olímpia
+Vila Prudente
+Vila Uberabinha
+Vila Zelina
+Z SUL X US
+Zaki Narchi
+Água Branca
+Água Rasa
