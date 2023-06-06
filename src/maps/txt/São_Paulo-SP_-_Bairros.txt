@@ -1,254 +1,194 @@
-# Bairros no mapa (camadas no SVG)
-
-- Campo Belo
-- Campo Grande
-- Cidade Ademar
-- Jabaquara
-- Pedreira
-- Santo Amaro
-- Itaim Bibi
-- Moema
-- Saúde
-- Cursino
-- Sacomã
-- Vila Andrade
-- Cidade Dutra
-- Grajaú
-- Jardim Ângela
-- Marsilac
-- Parelheiros
-- Bela Vista
-- Bom Retiro
-- Brás
-- Cambuci
-- Consolação
-- Liberdade
-- Pari
-- República
-- Santa Cecília
-- Sé
-- Jardim São Luís
-- Socorro
-- Anhanguera
-- Morumbi
-- Raposo Tavares
-- Rio Pequeno
-- Vila Sônia
-- Alto de Pinheiros
-- Barra Funda
-- Brasilândia
-- Butantã
-- Cachoeirinha
-- Casa Verde
-- Ipiranga
-- Jaguara
-- Jaguaré
-- Jardim Paulista
-- Jaçanã
-- Lapa
-- Limão
-- Mandaqui
-- Perdizes
-- Perus
-- Bairro de Pinheiros
-- Santana
-- São Rafael
-- Tremembé
-- Tucuruvi
-- Vila Guilherme
-- Vila Leopoldina
-- Vila Maria
-- Vila Mariana
-- Vila Medeiros
-- Aricanduva
-- Belém
-- Cangaíba
-- Carrão
-- Cidade Tiradentes
-- Ermelino Matarazzo
-- Freguesia do Ó
-- Guaianases
-- Iguatemi
-- Itaim Paulista
-- Jaraguá
-- Jardim Helena
-- Mooca
-- Pirituba
-- Sapopemba
-- São Domingos
-- São Lucas
-- São Mateus
-- São Miguel Paulista
-- Tatuapé
-- Vila Curuçá
-- Vila Formosa
-- Vila Jacuí
-- Vila Prudente
-- Água Rasa
-- Artur Alvim
-- Cidade Líder
-- Itaquera
-- José Bonifácio
-- Lajeado
-- Parque do Carmo
-- Penha
-- Ponte Rasa
-- Vila Matilde
-- Capão Redondo
-
 # Zonas da Cidade
 
 http://www.mapas-sp.com/bairros.htm
 
+# Zoneamento dos Bairros
+
+https://g1.globo.com/sao-paulo/noticia/2013/11/veja-distribuicao-oficial-dos-bairros-nas-cinco-regioes-da-cidade.html
+
+
 -> Zona Central
--> Zona Norte
--> Zona Leste
--> Zona Sul
--> Zona Oeste
+- Bela Vista
+- Bom Retiro
+- Cambuci
+- Santa Cecília
 
-# Subbairros que devem ser associados às camadas do SVG
-
-Aclimação
-Alto de Pinheiros
-Americanópolis
-Anhanguera
-Aricanduva
-Artur Alvim
-Bairro de Pinheiros
-Barra Funda
-Bela Vista
-Belém
-Bom Retiro
-Brasilândia
-Brás
-Butantã
-Cachoeirinha
-Cambuci
-Campo Limpo
-Cangaíba
-Capão Redondo
-Carrão
-Casa Verde
-Chácara Klabin
-Cidade Dutra
-Cidade Líder
-Cidade Nova Heliópolis
-Cidade Tiradentes
-Consolação
-Cursino
-Eldorado
-Emburá
-Engenheiro Goulart
-Ermelino Matarazzo
-Estância Jaraguá
-Fazenda Morumbi
-Fazenda da Juta
-Ferreira
-Freguesia do Ó
-Furnas
-Gleba do Pêssego
-Grajaú
-Granja Julieta
-Guaianases
-Guarapiranga
-Heliópolis
+- Consolação
 Higienópolis
+Jardins
+- Liberdade
+Aclimação
+- República
+Santa Ifigênia
+- Sé
+Luz
+
+
+-> Zona Leste
+- Aricanduva
+- Carrão
+- Vila Formosa
+- Cidade Tiradentes
+- Ermelino Matarazzo
+- Ponte Rasa
+- Guaianases
+- Lajeado
+- Itaim Paulista
+- Vila Curuçá
+- Itaquera
+- Cidade Líder
+- José Bonifácio
+- Mooca
+- Belém
+- Brás
+- Pari
+- Tatuapé
+- Vila Matilde
+- São Rafael
+- São Lucas
+- Jardim Helena
+
+- Parque do Carmo
+Gleba do Pêssego
+- Artur Alvim
+Vila Nhocuné
+- Cangaíba
+Engenheiro Goulart
+Vila Buenos Aires
+- Penha
+Penha de França
+Parque Novo Mundo
+- São Mateus
+Cidade São Mateus
+- São Miguel Paulista
+União Vila Nova
+- Vila Jacuí
+Limoeiro
+- Sapopemba
+Fazenda da Juta
+- Vila Prudente
+Quinta da Paineira
+Vila Zelina
+- Água Rasa
+Quarta Parada
+- Iguatemi
+Jardim Vila Mariana
+Chácara Klabin
+
+
+-> Zona Norte
+- Casa Verde
+- Cachoeirinha
+- Limão
+- Brasilândia
+- Jaçanã
+- Perus
+- Anhanguera
+- Pirituba
+- São Domingos
+- Vila Maria
+- Vila Guilherme
+- Vila Medeiros
+
+- Freguesia do Ó
+Nossa Senhora do O
+- Tremembé
+Furnas
+Tres Cruzes
+- Jaraguá
+Estância Jaraguá
+- Tucuruvi
+Jardim Brasil (Zona Norte)
+Jardim Brasil (Zona Leste)
+- Mandaqui
 Horto
 Horto Florestal
-Ibirapuera
-Iguatemi
-Interlagos
-Ipiranga
-Itaim Bibi
-Itaim Paulista
-Itaquera
-Jaguara
-Jaguaré
-Jaraguá
-Jardim Angela (Zona Sul)
-Jardim Brasil (Zona Norte)
-Jardim D'abril
-Jardim Helena
-Jardim Herplin
-Jardim Paulista
-Jardim Paulista
-Jardim São Luís
-Jardim Ângela
-Jardins
-Jaçanã
-José Bonifácio
-Lajeado
-Lapa
 Lauzane Paulista
-Liberdade
-Limoeiro
-Limão
-Luz
-M'Boi Mirim
-Mandaqui
-Marsilac
-Moema
-Mooca
-Morumbi
-Nossa Senhora do O
-Nova Piraju
-Núcleo do Engordador
-Pacaembu
-Parelheiros
-Pari
-Parque Novo Mundo
-Parque do Carmo
-Penha
-Perdizes
-Perus
-Pinheiros
-Pirituba
-Ponte Rasa
-Quarta Parada
-Quinta da Paineira
-Raposo Tavares
-Real Parque
-Recanto Campo Belo
-República
-Rio Pequeno
-Riviera Paulista
-Sacomã
-Santa Cecília
-Santa Ifigênia
-Santana
-Sapopemba
-Socorro
-Sumaré
-São Domingos
-São Lucas
-São Mateus
-São Miguel Paulista
-São Rafael
-Sé
-Tatuapé
-Terceira Divisão de Interlagos
-Tremembé
-Tres Cruzes
-Tucuruvi
-Umarizal
-União Vila Nova
-Usina Piratininga
-Vila Curuçá
-Vila Formosa
-Vila Guilherme
-Vila Jacuí
-Vila Leopoldina
-Vila Madalena
-Vila Maria
-Vila Mariana
-Vila Matilde
-Vila Medeiros
-Vila Nhocuné
-Vila Olímpia
-Vila Prudente
-Vila Uberabinha
-Vila Zelina
-Z SUL X US
+- Santana
 Zaki Narchi
+
+
+-> Zona Oeste
+- Butantã
+- Raposo Tavares
+- Vila Sônia
+- Lapa
+- Jaguara
+- Jaguaré
+- Vila Leopoldina
+- Alto de Pinheiros
+- Jardim Paulista
+
+- Morumbi
+Fazenda Morumbi
+Retiro  Morumbi
+Real Parque
+- Rio Pequeno
+Ferreira
+Jardim D'abril
+- Barra Funda
 Água Branca
-Água Rasa
+- Perdizes
+Sumaré
+Sumarezinho
+Jardim Vera Cruz
+Pacaembu
+- Bairro de Pinheiros
+Pinheiros
+Vila Madalena
+- Itaim Bibi
+Vila Olímpia
+
+
+-> Zona Sul
+- Capão Redondo
+- Grajaú
+- Socorro
+- Ipiranga
+- Jabaquara
+- Campo Grande
+- Saúde
+- Vila Mariana
+- Cursino
+
+- Vila Andrade
+Umarizal
+- Cidade Dutra
+Interlagos
+Terceira Divisão de Interlagos
+- Cidade Ademar
+Americanópolis
+Usina Piratininga
+- Pedreira
+Eldorado
+- Sacoma
+Sacomã
+Heliópolis
+Cidade Nova Heliópolis
+- Jardim Ângela
+Jardim Angela
+Jardim Angela (Zona Sul)
+Riviera Paulista
+M'Boi Mirim
+- Jardim São Luís
+Jardim Ibirapuera
+Guarapiranga
+- Parelheiros
+Jardim Herplin
+Núcleo do Engordador
+Recanto Campo Belo
+- Marsilac
+Emburá
+Jardim dos Eucaliptos
+- Campo Belo
+Nova Piraju
+Z SUL X US
+- Santo Amaro
+Granja Julieta
+Chácara Santo Antonio (Zona Sul)
+Jardim Caravelas
+Jardim Internacional
+Vila Cruzeiro
+- Moema
+Ibirapuera
+Vila Uberabinha
