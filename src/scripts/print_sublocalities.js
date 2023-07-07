@@ -13,6 +13,7 @@ function initService() {
 
   async function hello() {
     for (let letter of alphabet) {
+      console.log(letter);
       const options = {
         input: myQuery + ", " + letter,
         types: ["sublocality"],
